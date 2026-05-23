@@ -9,12 +9,18 @@
 
 ## 路線
 
-**雙路線並行**：
+**SDL2 native port** — C++17 重寫，Linux + macOS + Win 原生執行，**不需 DOSBox**。
 
-| 路線 | 結果 | 狀態 |
-|---|---|---|
-| **A. Binary patch + DOSBox** | 透過 patched Land/Pe/Space.EXE 在 DOSBox 跑中文版 | 🟡 hook 機制驗證中 |
-| **B. SDL2 native port** | C++17 重寫，Linux + Win 原生執行不需 DOSBox | 🟢 1-week spike 通過，準備 commit 8 週 |
+| 階段 | 狀態 |
+|---|---|
+| 1-hour 可行性 spike | ✅ 通過（NWC logo + 中文字幕 demo + Win .exe 都驗證） |
+| 翻譯 TSV (1191 條) | 🔄 進行中（多 agent 平行翻譯） |
+| 8-week 全 port roadmap | 📋 spec 在 `docs/SPIKE_REPORT.md` |
+| Week 1 SceneManager / ResourceLoader | ⏳ 翻譯完即開始 |
+
+> **歷史路線（已凍結）**：早期探索過 binary patch packed Land.exe 路線，
+> RE notes 留在 `docs/print_func_re.md` / `docs/wireframe_hook_notes.md` 供參考，
+> 但已決定不繼續維護。SDL2 port 是唯一目標。
 
 ## Repo 結構
 
