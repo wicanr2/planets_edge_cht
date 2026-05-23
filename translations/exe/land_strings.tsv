@@ -1,0 +1,361 @@
+file_offset	len	kind	original_en	translation_zh	notes
+0x00012343	15	UI	Can't load ship		
+0x00012353	18	UI	I'm the leader now		
+0x00012366	14	UI	He's dead jim!		
+0x00012375	28	UI	Repeat command to quit game.		
+0x00012392	36	UI	Thank you for playing Planet's Edge.		
+0x000123B7	36	UI	Repeat command to confirm Tele-trans		
+0x000123DC	28	UI	Tele-Trans is disrupted here		
+0x000123F9	21	UI	Tele-trans activated.		
+0x00012414	12	UI	I took a%s%s		
+0x00012421	21	UI	I can't carry anymore		
+0x00012441	15	UI	I have no items		
+0x0001245C	14	UI	Now wearing %s		
+0x00012476	13	UI	%s in %s hand		
+0x00012484	27	UI	I can't Wear or Wield that!		
+0x000124A0	11	UI	Never mind.		
+0x000124AC	15	UI	I have no items		
+0x000124BC	9	UI	Drop Item		
+0x000124C6	10	UI	%s dropped		
+0x000124D1	21	UI	There is no room here		
+0x000124E7	15	UI	I have no items		
+0x000124F7	19	UI	Examine which item?		
+0x0001250B	12	UI	Examine Item		
+0x00012518	15	UI	I have no items		
+0x00012528	15	UI	Use which item?		
+0x00012538	8	UI	Use Item		
+0x00012541	33	UI	Maybe if I was on the right side!		
+0x00012563	15	UI	I have no items		
+0x00012573	22	UI	No save during combat.		
+0x0001258A	24	UI	This corpse is worthless		
+0x000125A3	13	UI	Search corpse		
+0x000125B1	21	UI	I can't carry anymore		
+0x000125C7	35	UI	Perhaps if I was on the right side.		
+0x000125F0	10	UI	It's a%s%s		
+0x00012600	10	UI	It's a%s%s		
+0x0001260B	30	UI	I cannot move any further now.		
+0x0001262A	30	UI	I cannot move any further now.		
+0x000128FC	19	UI	Ship's Beam Weapons		
+0x00012910	19	UI	Ship's Bolt Weapons		
+0x00012924	19	UI	Ship's Proj Weapons		
+0x0001295B	11	UI	Ship Repair		
+0x00012967	11	UI	Item Repair		
+0x0001297D	13	UI	Light Weapons		
+0x0001298B	13	UI	Heavy Weapons		
+0x00012999	12	UI	Hand Weapons		
+0x000129A6	9	UI	First Aid		
+0x00012B19	37	UI	Thank you for playing Planet's Edge.$		
+0x00012C0A	13	UI	Assault Rifle		
+0x00012C2E	12	UI	Machine Gun?		
+0x00012C93	13	UI	Assault Laser		
+0x00012CB7	13	UI	Electron Gun@		
+0x00012CFC	18	UI	Sub-Atomic Blaster		
+0x00012D20	14	UI	Blue Quark Gun		
+0x00012D44	10	UI	Smart Guna		
+0x00012D64	16	UI	Grenade Launcher		
+0x00012D88	16	UI	Plasma Generator		
+0x00012DE8	17	UI	Mono-Mol Disk Gun		
+0x00012E0C	13	UI	Defense Wave@		
+0x00012E73	13	UI	Cygnus Cannon		
+0x00012E97	12	UI	Chain Sword?		
+0x00012EB9	15	UI	Rocket Launcher		
+0x00012EDD	10	UI	Death Ray=		
+0x00012EFD	17	UI	Microtic Injector		
+0x00012F21	14	UI	Tac Nuke Rifle		
+0x00012F45	14	UI	Breach Missile		
+0x00012FC7	17	UI	Thermite Launcher		
+0x00012FEB	13	UI	Scroe Special		
+0x0001300F	13	UI	Battle Laserd		
+0x00013032	13	UI	Sossee Dagger		
+0x00013056	12	UI	Laser Sword?		
+0x000131F6	15	UI	Personal Shield		
+0x0001325B	15	UI	Admantine Chain		
+0x0001327F	12	UI	Teflar Suit?		
+0x000132E0	15	UI	Shielded reflec		
+0x00013304	16	UI	Dreadnaught Suit		
+0x00013358	18	UI	Harmonic Resonator		
+0x0001338F	13	UI	Silver Locket		
+0x000133C4	18	UI	Algiebian Crystals		
+0x000133E1	17	UI	Algiebian Quarter		
+0x00013466	17	UI	Geal A'nai Amulet		
+0x0001349D	17	UI	Presidents Amulet		
+0x000134BA	13	UI	Security Card		
+0x000134D7	13	UI	Algiebian Tal		
+0x00013510	16	UI	Industrial Badge		
+0x0001352D	16	UI	Sector Clearance		
+0x0001357C	14	UI	Bag O Diamonds		
+0x000135FD	16	UI	ComNav Sq 2345-8		
+0x00013633	19	UI	Logic Circuit Alpha		
+0x00013650	18	UI	Logic Circuit Beta		
+0x0001366D	16	UI	Microchip Viewer		
+0x0001368A	19	UI	Gravitic Compressor		
+0x000136A7	16	UI	Requisition Form		
+0x000136C4	15	UI	Authorized Form		
+0x000136E1	13	UI	Mini-Lab Pass		
+0x00013717	13	UI	Sonic Pincers		
+0x00013777	15	UI	Algieban Invite		
+0x00013794	13	UI	Talking Stick		
+0x00013812	15	UI	Queens Standard		
+0x0001384B	15	UI	Attagi Com-Code		
+0x00013883	15	UI	Choassqa Card 1		
+0x000138A0	15	UI	Choassqa Card 2		
+0x000138BD	15	UI	Choassqa Card 3		
+0x000138DA	15	UI	Choassqa Card 4		
+0x000138F7	15	UI	Choassqa Card 5		
+0x0001392F	14	UI	Technicians ID		
+0x000139B5	14	UI	Mass Converter		
+0x00013A05	14	UI	10 Credit Card		
+0x00013A3E	16	UI	Shroud Admission		
+0x00013A74	13	UI	Particle Pack		
+0x00013A98	14	UI	Neutrino Cache		
+0x00013ABC	11	UI	Power CellS		
+0x00013B1F	14	UI	Heavy Magazine		
+0x00013B43	14	UI	First Aid Pack		
+0x00013B67	11	UI	Trauma Kitb		
+0x00013B88	14	UI	Shroud of Kriq		
+0x00013BAC	12	UI	Ulfas Cloth?		
+0x00013BE3	13	UI	Sonrai Sticks		
+0x00013C00	17	UI	Gallery Admission		
+0x00013C51	13	UI	Desolate Book		
+0x00013C89	14	UI	Decorative Orb		
+0x00013CF9	17	UI	*Technical Plans*		
+0x00013D16	17	UI	Fire Extinguisher		
+0x00013D6B	15	UI	Flight Recorder		
+0x00013D88	14	UI	Alien Medipack		
+0x00013DA4	14	UI	Mini Aid Packs		
+0x00013DC8	11	UI	Alien Doll.		
+0x00013E9A	13	UI	Numistat deed		
+0x00013EB7	13	UI	Krupp Shields		
+0x00013F7C	15	UI	The Last Stanza		
+0x00013FCF	15	UI	Sphere of Themi		
+0x00013FEC	14	UI	Golden Trident		
+0x00014009	16	UI	Coral Instrument		
+0x00014078	16	UI	Anti-Mat Grenade		
+0x000140B1	13	UI	Control Spike		
+0x000140CE	16	UI	Control Crystals		
+0x000140EB	15	UI	P.c. Strandware		
+0x0001415A	13	UI	Bronze Sphere		
+0x00014177	15	UI	Invisible Idiot		
+0x00014194	16	UI	Marathon Victory		
+0x000141CC	15	UI	Virtual Reality		
+0x00014204	14	UI	Sphere o Rhyth		
+0x00014221	13	UI	Sphere of Awa		
+0x0001423E	13	UI	Silver Sphere		
+0x000142A4	13	UI	Tschi Tai Pin		
+0x000142C1	16	UI	sphere of Harmon		
+0x00014347	18	UI	Wierd Science Code		
+0x000143AB	15	UI	Official Papers		
+0x0001445B	15	UI	Cevitic Balance		
+0x000144FC	14	UI	Don't build me		
+0x000147A2	13	UI	Not a chance!		
+0x000147B9	16	UI	Which direction?		
+0x0001482B	16	UI	I Have no weapon		
+0x0001483C	19	UI	My weapon is empty.		
+0x00014850	35	UI	I will not shoot myself on purpose!		
+0x00014B9B	14	UI	|/-\\No hash %s		
+0x00014BAA	10	UI	No hash %s		
+0x00014C01	11	UI	%-19s: %-3d		
+0x00014C37	30	UI	They aren't wearing any armor!		
+0x00014C56	29	UI	I couldn't make it any better		
+0x00014C74	20	UI	Presto! Good as new!		
+0x00014C89	37	UI	I'm a physician not a miracle worker!		
+0x00014CAF	38	UI	I don't think that would do much good.		
+0x00014CD6	38	UI	I'm afraid I'd do more harm then good.		
+0x00014CFD	36	UI	The Wounds were severe but operable.		
+0x00014D22	37	UI	I'm not a doctor, but that should do.		
+0x00014D48	26	UI	It's A miracle your alive!		
+0x00014D63	42	UI	Recovery will require more than first aid!		
+0x00014D8E	28	UI	That should patch things up.		
+0x00014DAE	5	UI	%s.ts		
+0x00014DB4	18	UI	 Error opening %s.		
+0x00014DC7	11	UI	Shots: %d%c		
+0x00014DE3	8	UI	%s: %d%c		
+0x00014DEC	16	UI	Applications: %d		
+0x00014DFD	11	UI	Armor: %d%c		
+0x00014E1C	5	UI	%8.8s		
+0x00014E25	31	UI	[Press <Y>es(LMB) or <N>o(RMB)]		
+0x00014E45	29	UI	 [Press ENTER or Click Mouse]		
+0x00014E63	6	UI	%s.bch		
+0x00014E6D	6	UI	%s.bch		
+0x00014E74	6	UI	%d.bch		
+0x00014FEC	17	UI	Can't load font!!		
+0x00015075	14	UI	Can't load lcp		
+0x00015084	18	UI	Can't load tileset		
+0x00015097	18	UI	Can't load tileset		
+0x000150AA	18	UI	Can't load tileset		
+0x000150BD	18	UI	Can't load tileset		
+0x000150D0	18	UI	Can't load tileset		
+0x000150EB	5	UI	%s.%s		
+0x000150F9	5	UI	%s.%s		
+0x00015107	5	UI	%s.%s		
+0x00015115	5	UI	%s.%s		
+0x00015123	5	UI	%s.%s		
+0x00015131	5	UI	%s.%s		
+0x00015168	7	UI	%s Game		
+0x00015186	9	UI	Saving %s		
+0x00015196	6	UI	%s.sav		
+0x000151A7	10	UI	Loading %s		
+0x000151B2	6	UI	%s.sav		
+0x00015255	6	UI	%s.map		
+0x0001525C	7	UI	No hash		
+0x00015276	29	UI	Fatal Error opening work file		
+0x00015294	24	UI	Error Writing work file.		
+0x000152AD	24	UI	Error Writing work file.		
+0x000152C6	24	UI	Error Writing work file.		
+0x000152F4	6	UI	%s.map		
+0x000152FE	6	UI	%s.map		
+0x00015308	18	UI	 Error opening %s.		
+0x00015320	16	UI	Map loaded as %s		
+0x000154DC	34	UI	Please insert diskette containing 		
+0x00015501	9	UI	in drive 		
+0x00015586	12	UI	Cannot find 		
+0x000155B8	31	UI	Please enter new program spec: 		
+0x00015C14	15	UI	run-time error 		
+0x00012322	7	DEBUG	objects		
+0x0001232F	7	DEBUG	objects		
+0x00012337	7	DEBUG	generic		
+0x00012437	9	DEBUG	Inventory		
+0x00012451	10	DEBUG	Wear/Wield		
+0x0001267C	19	DEBUG	BBDRSUW`cispace.exe		
+0x00012818	10	DEBUG	flyfight.m		
+0x00012823	6	DEBUG	land.m		
+0x0001282A	8	DEBUG	jungle.m		
+0x00012833	7	DEBUG	eerie.m		
+0x0001283B	10	DEBUG	medieval.m		
+0x00012846	9	DEBUG	terrain.m		
+0x00012850	7	DEBUG	spawn.m		
+0x00012858	7	DEBUG	alien.m		
+0x00012860	8	DEBUG	forest.m		
+0x00012869	8	DEBUG	plains.m		
+0x00012872	8	DEBUG	diphda.m		
+0x0001287B	9	DEBUG	saharia.m		
+0x00012885	7	DEBUG	theme.m		
+0x0001288D	8	DEBUG	danger.m		
+0x00012896	10	DEBUG	spacebar.m		
+0x000128A1	10	DEBUG	losegame.m		
+0x000128AC	7	DEBUG	woods.m		
+0x000128B4	8	DEBUG	castle.m		
+0x000128BD	8	DEBUG	tavern.m		
+0x000128C6	6	DEBUG	town.m		
+0x000128CD	9	DEBUG	Commander		
+0x000128D7	6	DEBUG	Combat		
+0x000128DE	8	DEBUG	Engineer		
+0x000128E7	8	DEBUG	Sciences		
+0x000128F0	11	DEBUG	Astrogation		
+0x00012938	10	DEBUG	Leadership		
+0x00012943	13	DEBUG	Communication		
+0x00012951	9	DEBUG	Diplomacy		
+0x00012973	9	DEBUG	Computers		
+0x000129B0	7	DEBUG	Surgery		
+0x00012DAC	7	DEBUG	Seeker^		
+0x0001321A	11	DEBUG	Modu-armor>		
+0x00014892	7	DEBUG	mthread		
+0x0001489A	8	DEBUG	mcognito		
+0x000148A3	7	DEBUG	mcolony		
+0x000148AB	8	DEBUG	mconcern		
+0x000148B4	8	DEBUG	mcastle2		
+0x000148BD	7	DEBUG	mabduct		
+0x000148C5	7	DEBUG	mcircle		
+0x000148CD	7	DEBUG	mlevel1		
+0x000148D9	6	DEBUG	msmall		
+0x000148E6	8	DEBUG	mharvest		
+0x000148EF	8	DEBUG	mforsake		
+0x000148F8	7	DEBUG	Minaug2		
+0x0001490B	6	DEBUG	mmagin		
+0x00014912	6	DEBUG	mtitan		
+0x00014919	8	DEBUG	mcatalog		
+0x00014922	6	DEBUG	mpeace		
+0x00014929	6	DEBUG	msquat		
+0x00014930	7	DEBUG	mstormy		
+0x00014938	7	DEBUG	mfactor		
+0x00014940	6	DEBUG	mtouch		
+0x0001495F	6	DEBUG	mblind		
+0x00014966	7	DEBUG	mpearl3		
+0x0001496E	7	DEBUG	mshadow		
+0x00014976	7	DEBUG	mpuppet		
+0x0001497E	6	DEBUG	mghost		
+0x00014985	6	DEBUG	mintro		
+0x0001498C	7	DEBUG	mtitan2		
+0x00014994	7	DEBUG	mbreech		
+0x0001499C	8	DEBUG	mfactor2		
+0x000149AB	8	DEBUG	mcircuit		
+0x000149B4	7	DEBUG	mmagin2		
+0x000149BC	6	DEBUG	msewer		
+0x000149C3	7	DEBUG	mattagi		
+0x000149CB	6	DEBUG	minaug		
+0x000149D2	6	DEBUG	mloki2		
+0x000149DF	7	DEBUG	mpearl1		
+0x000149E7	7	DEBUG	mpearl2		
+0x000149EF	8	DEBUG	mabduct2		
+0x000149F8	6	DEBUG	mconc1		
+0x000149FF	7	DEBUG	mlevel2		
+0x00014A07	7	DEBUG	mlevel3		
+0x00014A17	8	DEBUG	MCASTLE3		
+0x00014A20	8	DEBUG	MCASTLE4		
+0x00014DD3	7	DEBUG	Reloads		
+0x00014DDB	7	DEBUG	Charges		
+0x00014EA2	10	DEBUG	roland.drv		
+0x00014EAD	9	DEBUG	adlib.drv		
+0x00014EB7	9	DEBUG	tandy.drv		
+0x00014EC1	7	DEBUG	ibm.drv		
+0x00014EE2	10	DEBUG	flyfight.m		
+0x00014EED	6	DEBUG	land.m		
+0x00014EFA	6	DEBUG	tanpal		
+0x0001506D	7	DEBUG	lconpan		
+0x00015170	7	DEBUG	-=NEW=-		
+0x00015264	6	DEBUG	pe.wrk		
+0x0001526F	6	DEBUG	pe.wrk		
+0x000152ED	6	DEBUG	pe.wrk		
+0x00015B99	9	DEBUG	C<<NMSG>>		
+0x0001672E	7	DEBUG	m\\uPuXu		
+0x000092C0	6	NOISE	`$`D`d		
+0x00009300	6	NOISE	`)`I`i		
+0x00009340	6	NOISE	`.`N`n		
+0x00009380	6	NOISE	`3`S`s		
+0x000093C0	6	NOISE	`8`X`x		
+0x00009400	6	NOISE	`=`]`}		
+0x0000EFDB	6	NOISE	`$`D`d		
+0x0000F01B	6	NOISE	`)`I`i		
+0x0000F05B	6	NOISE	`.`N`n		
+0x0000F09B	6	NOISE	`3`S`s		
+0x0000F0DB	6	NOISE	`8`X`x		
+0x0000F11B	6	NOISE	`=`]`}		
+0x00010802	21	NOISE	   $$$(((---222888???		
+0x000108A5	74	NOISE	'?--?1-?6-?:-??-??-:?-6?-1?--?1-?6-?:-??-:?-6?-1?--?--?1-?6-?:-??-:?-6?-1?		
+0x0001246B	5	NOISE	Right		
+0x0001488C	5	NOISE	mloki		
+0x000148E0	5	NOISE	mlife		
+0x00014905	5	NOISE	mlove		
+0x00014947	5	NOISE	mCONC		
+0x0001494D	5	NOISE	medge		
+0x00014953	5	NOISE	mAPOC		
+0x00014959	5	NOISE	mgods		
+0x000149A5	5	NOISE	small		
+0x000149D9	5	NOISE	mmute		
+0x00014A0F	7	NOISE	MCASTLE		
+0x00014BB8	6	NOISE	GIFNOC		
+0x00014BBF	5	NOISE	SRAHC		
+0x00014BC5	5	NOISE	SRAHC		
+0x00014F09	5	NOISE	chain		
+0x00014F92	6	NOISE	GIFNOC		
+0x00015146	5	NOISE	pe.cc		
+0x00015178	5	NOISE	*.sav		
+0x0001519D	6	NOISE	map.cc		
+0x000151B9	6	NOISE	map.cc		
+0x000151C7	64	NOISE	1234567890123456123456789012345612345678901234561234567890123456		
+0x00015208	5	NOISE	chain		
+0x0001520E	5	NOISE	chain		
+0x00015214	6	NOISE	pe.exe		
+0x0001521B	5	NOISE	chain		
+0x00015221	5	NOISE	chain		
+0x00015227	8	NOISE	land.exe		
+0x00015230	5	NOISE	chain		
+0x00015236	5	NOISE	chain		
+0x0001523C	9	NOISE	space.exe		
+0x000152DF	6	NOISE	map.cc		
+0x000152E6	6	NOISE	map.cc		
+0x00015417	6	NOISE	``````		
+0x0001560A	5	NOISE	PATH=		
+0x00015610	7	NOISE	CVDEBUG		
+0x0001562D	7	NOISE	COMSPEC		
+0x0001576E	8	NOISE	land.exe		

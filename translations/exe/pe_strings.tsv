@@ -1,0 +1,170 @@
+file_offset	len	kind	original_en	translation_zh	notes
+0x0000A3FE	24	UI	Error loading space.exe!		
+0x0000A418	38	UI	A memory allocation error has occured!		
+0x0000A440	48	UI	The Planet's Edge configuration file is corrupt!		
+0x0000A472	44	UI	Please rerun Install to reconfigure program.		
+0x0000A5F8	6	UI	%s.vgr		
+0x0000A5FF	6	UI	%s.vgw		
+0x0000A60E	5	UI	%s.%s		
+0x0000A707	26	UI	Please wait while loading.		
+0x0000AA13	42	UI	. . . Earth Station  Cambara  calling  any		
+0x0000AA3E	42	UI	U.N.F.A.  Moonbase  personnel.   This   is		
+0x0000AA69	42	UI	Earth Station Cambara calling any U.N.F.A.		
+0x0000AA94	41	UI	Moonbase  personnel.   Instruments   show		
+0x0000AABE	41	UI	that at the exact time Earth was released		
+0x0000AAE8	43	UI	from   its  dimensional  limbo,  the   Moon		
+0x0000AB14	43	UI	slipped   through  a  rift  in  the   time-		
+0x0000AB40	43	UI	dimensional   barrier.   Please file   your		
+0x0000AB6C	41	UI	report  with  U.N.F.A.  Headquarters  c/o		
+0x0000AB9D	19	UI	New World Computing		
+0x0000ABB8	15	UI	P.O. Box 4302, 		
+0x0000ABC8	34	UI	      Hollywood, California  90078		
+0x0000ABF2	21	UI	You will be contacted		
+0x0000AC30	15	UI	William R. Dean		
+0x0000AC40	18	UI	Osai L. Tsakafuchi		
+0x0000AC53	19	UI	Nelson T. Ngatadatu		
+0x0000AC67	17	UI	Katya A. Mershova		
+0x0000AC79	13	UI	Eric B. Hyman		
+0x0000AC87	19	UI	Kenneth L. Mayfield		
+0x0000AC9B	13	UI	Neal Hallford		
+0x0000ACA9	16	UI	Jonathan P. Gwyn		
+0x0000ACBA	12	UI	Todd Hendrix		
+0x0000ACC7	18	UI	Contact Specialist		
+0x0000ACDA	18	UI	Medical Specialist		
+0x0000ACED	14	UI	Chief Engineer		
+0x0000ACFC	15	UI	Ground Security		
+0x0000AD40	17	UI	Graphics Engineer		
+0x0000AD57	21	UI	U.N.F.A. Chief (2083)		
+0x0000AD6D	19	UI	Becomes World Heath		
+0x0000AD81	23	UI	Retires U.N.F.A. (2047)		
+0x0000AD99	21	UI	Killed on Duty (2081)		
+0x0000ADAF	20	UI	I'm Outa' Here! (tm)		
+0x0000ADC4	14	UI	I'll play your		
+0x0000ADD3	22	UI	Soon to be universally		
+0x0000ADEA	12	UI	Is this game		
+0x0000ADF8	16	UI	Marries Katya M.		
+0x0000AE09	20	UI	Administrator (2055)		
+0x0000AE21	11	UI	silly game.		
+0x0000AE2D	11	UI	    famous!		
+0x0000AE39	13	UI	finished yet?		
+0x0000AE47	17	UI	Lick the chalice!		
+0x0000B175	34	UI	Please insert diskette containing 		
+0x0000B19A	9	UI	in drive 		
+0x0000B21F	12	UI	Cannot find 		
+0x0000B251	31	UI	Please enter new program spec: 		
+0x0000B5C9	15	UI	run-time error 		
+0x0000A39A	7	DEBUG	sfx.vga		
+0x0000A3A2	9	DEBUG	sword.vgr		
+0x0000A3AC	8	DEBUG	moon.vga		
+0x0000A3B5	8	DEBUG	test.vga		
+0x0000A3BE	6	DEBUG	sphere		
+0x0000A3C5	9	DEBUG	title.vgr		
+0x0000A49F	8	DEBUG	ship.vga		
+0x0000A4A8	9	DEBUG	ship1.vga		
+0x0000A4B2	9	DEBUG	ship3.vga		
+0x0000A4BC	9	DEBUG	ship4.vga		
+0x0000A4C6	8	DEBUG	erun.vgr		
+0x0000A4D4	7	DEBUG	blaster		
+0x0000A4DC	8	DEBUG	blaster2		
+0x0000A4E5	8	DEBUG	crun.vgr		
+0x0000A4EE	7	DEBUG	pod.vga		
+0x0000A543	11	DEBUG	backpod.vgr		
+0x0000A54F	8	DEBUG	tube.vga		
+0x0000A558	6	DEBUG	sg.vgr		
+0x0000A55F	6	DEBUG	bg.vga		
+0x0000A566	8	DEBUG	credit01		
+0x0000A56F	8	DEBUG	credit02		
+0x0000A578	8	DEBUG	credit03		
+0x0000A581	8	DEBUG	credit04		
+0x0000A58A	6	DEBUG	aliens		
+0x0000A591	9	DEBUG	still.vga		
+0x0000A59B	8	DEBUG	font.vga		
+0x0000A633	8	DEBUG	font.vga		
+0x0000A6AA	10	DEBUG	roland.drv		
+0x0000A6B5	9	DEBUG	adlib.drv		
+0x0000A6BF	9	DEBUG	tandy.drv		
+0x0000A6C9	7	DEBUG	ibm.drv		
+0x0000A6D1	10	DEBUG	training.m		
+0x0000A6DC	9	DEBUG	petheme.m		
+0x0000A6FF	6	DEBUG	tanpal		
+0x0000A79E	6	DEBUG	edge.m		
+0x0000A7A5	6	DEBUG	laser3		
+0x0000A7AC	6	DEBUG	laser2		
+0x0000A7B3	6	DEBUG	laser4		
+0x0000A7BA	10	DEBUG	laser1.vgr		
+0x0000A7C5	9	DEBUG	laser.vga		
+0x0000A7DB	9	DEBUG	moon5.vga		
+0x0000A7EB	9	DEBUG	moon5.vga		
+0x0000A7FA	8	DEBUG	gun1.vga		
+0x0000A803	8	DEBUG	gun2.vga		
+0x0000A80C	8	DEBUG	gun3.vga		
+0x0000A832	8	DEBUG	test.vga		
+0x0000A83B	6	DEBUG	sphere		
+0x0000A847	8	DEBUG	gun4.vga		
+0x0000A850	8	DEBUG	gun2.vga		
+0x0000A859	7	DEBUG	parship		
+0x0000A861	7	DEBUG	sky.vga		
+0x0000A869	10	DEBUG	parade.vga		
+0x0000A9C2	6	DEBUG	edge.m		
+0x0000A9C9	8	DEBUG	moon.vga		
+0x0000A9D2	7	DEBUG	sky.vga		
+0x0000A9DA	10	DEBUG	parade.vga		
+0x0000A9E5	9	DEBUG	gun4a.vga		
+0x0000A9EF	8	DEBUG	endtext1		
+0x0000A9F8	8	DEBUG	endtext2		
+0x0000AA01	6	DEBUG	sphere		
+0x0000AA08	10	DEBUG	theend.vgr		
+0x0000AC08	8	DEBUG	font.vga		
+0x0000AD0C	19	DEBUG	Programmer/Designer		
+0x0000AD20	15	DEBUG	Artist/Designer		
+0x0000AD30	15	DEBUG	Writer/Designer		
+0x0000AE59	10	DEBUG	training.m		
+0x0000AE64	12	DEBUG	generals.vgr		
+0x0000AE71	8	DEBUG	font.vga		
+0x0000AE86	10	DEBUG	parade.vga		
+0x0000AE91	6	DEBUG	walk31		
+0x0000AE98	6	DEBUG	walk32		
+0x0000AE9F	6	DEBUG	walk33		
+0x0000AEA6	6	DEBUG	walk34		
+0x0000AEAD	6	DEBUG	walk35		
+0x0000AEB4	6	DEBUG	walk36		
+0x0000AEBB	6	DEBUG	walk21		
+0x0000AEC2	6	DEBUG	walk22		
+0x0000AEC9	6	DEBUG	walk23		
+0x0000AED0	6	DEBUG	walk24		
+0x0000AED7	6	DEBUG	walk25		
+0x0000AEDE	6	DEBUG	walk26		
+0x0000AEE5	6	DEBUG	kludge		
+0x0000B3A1	6	DEBUG	J*J*J*		
+0x0000B4AB	7	DEBUG	moonpal		
+0x0000B54E	9	DEBUG	C<<NMSG>>		
+0x00001FDC	6	NOISE	`$`D`d		
+0x0000201C	6	NOISE	`)`I`i		
+0x0000205C	6	NOISE	`.`N`n		
+0x0000209C	6	NOISE	`3`S`s		
+0x000020DC	6	NOISE	`8`X`x		
+0x0000211C	6	NOISE	`=`]`}		
+0x00008084	21	NOISE	   $$$(((---222888???		
+0x00008127	74	NOISE	'?--?1-?6-?:-??-??-:?-6?-1?--?1-?6-?:-??-:?-6?-1?--?--?1-?6-?:-??-:?-6?-1?		
+0x0000A393	6	NOISE	GIFNOC		
+0x0000A3CF	5	NOISE	chain		
+0x0000A3D5	5	NOISE	chain		
+0x0000A3DB	8	NOISE	land.exe		
+0x0000A3E4	5	NOISE	chain		
+0x0000A3EA	5	NOISE	chain		
+0x0000A3F0	9	NOISE	space.exe		
+0x0000A6E9	6	NOISE	GIFNOC		
+0x0000A6F3	6	NOISE	GIFNOC		
+0x0000A7CF	5	NOISE	gun10		
+0x0000A7D5	5	NOISE	lclip		
+0x0000A7E5	5	NOISE	gun10		
+0x0000A81A	5	NOISE	sun1a		
+0x0000A820	5	NOISE	sun1c		
+0x0000A826	5	NOISE	sun1b		
+0x0000A82C	5	NOISE	sun1d		
+0x0000AE7A	5	NOISE	hand1		
+0x0000AE80	5	NOISE	hand2		
+0x0000B0F9	6	NOISE	``````		
+0x0000B2A3	5	NOISE	PATH=		
+0x0000B2A9	7	NOISE	CVDEBUG		
+0x0000B2C6	7	NOISE	COMSPEC		

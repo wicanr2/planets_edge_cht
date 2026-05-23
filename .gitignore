@@ -1,0 +1,61 @@
+# ============================================================
+# IP-safe gitignore — 遊戲 binary 絕不入 repo
+# ============================================================
+
+# 原版遊戲檔（NWC / 3DO 商業 IP）
+original/
+work/
+*.exe
+*.EXE
+*.cc
+*.CC
+*.bch
+*.BCH
+*.sav
+*.SAV
+!sdl2_engine/win_package/pe_intro_viewer.exe   # 我們自己 build 的 SDL2 binary OK
+!sdl2_engine/build_cpp/pe_intro_viewer         # Linux 同上
+
+# Build outputs
+build/
+builds/
+sdl2_engine/build_cpp/
+sdl2_engine/build_win/
+sdl2_engine/win_package/Intro.cc               # 樣本資料不入 repo
+sdl2_engine/all_frames/
+sdl2_engine/*.png
+sdl2_engine/*.bmp
+
+# Extracted assets (來自原版資料解壓 → IP)
+extracted/
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# C/C++ build
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# Temp
+*.tmp
+*.bak
+tmp/

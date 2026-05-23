@@ -1,0 +1,253 @@
+idx	offset	len	original_en	translation_zh	notes
+0	0x0200	7	Objects		
+1	0x0209	140	Dagger\rMade with a reinforced\rtitanium steel blade, this\rdagger would be effective\rwhen used hand to hand\ragainst an opponent without\rarmor.		
+2	0x0297	179	Sword\rWell balanced and highly\rdecorated, this sword can be\rused both in state ceremonies\ras well as in battle. It\rwould be highly lethal when\rused against an enemy without\rarmor.		
+3	0x034C	233	Pistol\rMade for U.N.F.A. a security\rweapon, the Baretta 2043-UFS\ractually came into field\rservice in 2044 due to\rproblems with its loading\rsystem.  It fires a standard\rnine millimeter ammunition\rand is very effective at\rshort ranges.		
+4	0x0437	169	Rifle\rA hunter's weapon, this rifle\ris a long range weapon with\rfair accuracy. Although it is\rnot designed for combat\rsituations, it can be very\rdeadly in that capacity.		
+5	0x04E2	116	Assault Rifle\rWithout a doubt an assassin's\rweapon, this rifle fires high\rpower ammunition with laser\rfine accuracy.		
+6	0x0558	232	Machine Gun\rVery similar in design to\rU.N.F.A.'s hastily created\rG11-S, this machine gun fires\rcaseless rounds that can\rpenetrate most kinds of\rballistic armor. Like most\rmachine guns, it suffers from\ra very limited effective\rrange.		
+7	0x0642	257	Hand Laser\rThe innovative design of this\rhand laser is both functional\rand practical.  Using a\rcoiled heat damping system,\rthis weapon design allows\rlaser technology to be\reffective in a hand held\rsize.  It depends on\rammunition in the form of a\rpower cell.		
+8	0x0745	234	Laser Rifle\rMore accurate than its hand\rheld counterpart, the laser\rrifle is designed for\rslightly heavier tasks which\rrequire more power in a\rlonger burst. In most\rgalactic societies, this has\rbecome the standard medium\rrange weapon.		
+9	0x0831	275	Assault Laser\rCreated to deliver maximum\rdamage without suffering from\rthe dangers of medium ranged\ropposing fire, the Assault\rLaser has the best of both\rworlds and is a military\rissue weapon of choice.  Only\rthe very best of reflective\rarmors are useful against\rthis weapon.		
+10	0x0946	233	Electron Gun\rThe fourth and least\reffective in a class of\r"sub-atomic" weapons, the\rElectron class gun creates\rinjuries by stripping the\relectrons from contacted\rmolecular structures, thereby\rseverely injuring any\runshielded targets.		
+11	0x0A31	237	Neutron Gun\rThe third in the class of\r"sub-atomic" weapons, the\rNeutron Gun breaks down the\rmolecular integrity of its\rtarget by a barrage of very\rtightly focused neutrons.\rUnshielded targets are often\rseriously injured by these\rweapons.		
+12	0x0B20	304	Sub-Atomic Blaster\rLike the less developed\rmodels, the sub-atomic\rblaster combines the\rstrategies of electron and\rneutron guns and hits a\rtarget with much stronger\reffect.  In addition, the\rdesigners of the sub-atomic\rblaster have also solved the\rproblems of range and\raccuracy, improving on both\rcounts.		
+13	0x0C52	376	Blue Quark Gun\rCode named project Blue\rQuark, this gun was a top\rsecret weapons development in\rSector Alnasl. Created by the\rOminar for a Dhoven\rcontractor, the Blue Quark\rGun is the first class\r"sub-atomic" weapon.  Firing\ran incredibly dense stream of\ranti-gluons into its target,\rthe gun comes close to\rcompletely disassembling\rthose unfortunate enough to\rfeel its effects.		
+14	0x0DCC	337	Smart Gun\rA miniaturized artificial\rintelligence computer has\rbeen combined with a low\rgrade missile launcher to\rcreate this strategic weapon.\rMade to demoralize Scroe\rtroops on the battlefield,\rwhen fired the Smart Gun\rautomatically seeks out the\rstrongest enemy target.\rMorale among the enemy\rcollapses quickly in the face\rof this gun.		
+15	0x0F1F	273	Grenade Launcher\rSimilar to those of\rtwentieth-century Earth, this\rgrenade launcher fires\rstandard fletchette type\rgrenades which affect a small\rarea of a few feet. Users\rshould be warned that it is\rpossible to be injured by\r'friendly fire' when using\rweapons of this sort.		
+16	0x1032	269	Plasma Generator\rUsing very special designs,\rthis gun's developers\rsucceeded in creating a\rlocalized fuel-air explosion\rsimilar to those created by\rlarger fuel-air bombs.\rCreating intense heat\reffects, the plasma generator\roperates much like a\rlarge-scale flamethrower.		
+17	0x1141	288	Seeker\rA counterpart to the Smart\rGun, the seeker gun also uses\rartificial intelligence and\rrocket launching technologies\rfor its affect. Not limited\rby a strict line of sight,\rthe seeker is capable of\rattacking targets around\rcorners and other\robstructions but does have a\rlimited range.		
+18	0x1263	129	Acid Gun\rFiring small pellets of a\rhighly corrosive nature, the\racid gun is designed to\rdirectly attack the armor of\ran opponent.		
+19	0x12E6	304	Mono-Mol Disk Gun\rA projectile weapon, the\rmono-mol disk gun fires\rmolecule thick discs at a\rhigh rate of speed, allowing\rthem to penetrate most kinds\rof armor and do damage\rdirectly to the wearer. This\rweapon is highly unreliable,\rhowever, and is known to be\rvery vulnerable to\rTechJamming technologies.		
+20	0x1418	310	Defense Wave\rStrictly intended as a\rdefensive weapon, the defense\rwave propagator creates a\rglobular electrostatic burst\rthat is centered around the\ruser, doing damage to anyone\rand anything that stands in\rfront, behind or next to the\rdefender.  It is advised that\rthis item not be used in a\r'party' situation.		
+21	0x1550	318	Mass Cannon\rUtilizing mass driver\rtechnologies to deadly\reffect, this shoulder weapon\rfires a thousand gram\rprojectile from a short mass\rchamber at a velocity in\rexcess of nine hundred feet\rper second. Though it isn't\ralways capable of impaling\rall armor, it does\rsignificant damage while\rignoring any armored effects.		
+22	0x1690	232	Turbo Laser\rTermed by its inventor as a\r+suicide+ weapon, the turbo\rlaser fuses all of its\rcomponent parts as it fires\rits lethal burst. Effective\ronly at very short ranges,\rthese lasers are fatal to\rnearly anything that they\rtouch.		
+23	0x177A	431	Cygnus Cannon\rAn inscription on the stock\rof the cygnus cannon gives\rall the details of the\rconstruction of this weapon\rof revenge.  Entirely unique\rin the galaxy, unmatched even\rby the technologies of the\rOminar or the Ipremi, the\rCygnus Cannon is capable of\rfiring a stream of stripped\rgravitons, in effect,\rcreating a pseudo-black hole\rin the center of its focal\rrange. When concentrated on\rany opponent, it will kill\rinstantly.		
+24	0x192B	260	Chain Sword\rAn ingenuity created by the\rsettlers on Rutilicus Colony\rin Sector Kornephoros, the\rchain sword was created so\rthat settlers could have a\rdevice that would allow\rdefense against Cin-Sae Spawn\rwhile also having a device\rwith more practical purposes.		
+25	0x1A31	284	Rocket Launcher\rModified from a basic grenade\rlaunch design, this rocket\rlauncher is a line of sight\rweapon capable of greater\rrange and damage than other\rsimilar weapons. Novices\rshould be warned that the\rweapon is as dangerous to\rfriendly parties as to\rhostile when used improperly.		
+26	0x1B4F	176	Death Ray\rA microwave transmitter has\rbeen coupled with a moderate\rpower supply in this simple\rhand held weapon. Aptly\rnamed, this death ray will\rkill most unarmored opponents.		
+27	0x1C01	344	Microtic Injector\rStealing technology developed\rfor the needler guns, the\rMicrotic Injector is a\rhypervelocity injection\rsystem which introduces a\rmicrotic army into the body\rof an opponent. Once\rinside,microts then attack\rwhatever systems they\rencounter until their power\rsupplies fail. Also a good\rdevice for injecting\rStrandware into a host.		
+28	0x1D5B	243	Tac Nuke Rifle\rOperating more like a rocket\rlauncher than a rifle, this\rweapon fires a\rmicro-miniature fissionable\rcharge into a specified zone.\rOnce there it detonates with\ra titanic blast. Victims\rsuffer both radiation and\rprojectile damage.		
+29	0x1E50	215	Breach Missile\rUsing highly complex armor\rpiercing techniques, this\rmissile launcher does all of\rits damage against any armor\rit encounters, in most cases\rmaking it possible for a\rsecondary attack to do real\rdamage.		
+30	0x1F29	146	Needler\rThis handgun, designed to\rfool Evian Interceptor Armor,\rfires fletched needles which\rspread into a dense cloud\rshortly before they impact.		
+31	0x1FBD	228	Imastyl\rEssentially a handless\rdagger, the Imastyl has a\rnumber of ritualistic\rpurposes to the people of\rHenresia. They Who Converse\rare said to use the Imastyl\rto draw the pictures that\rthey use to communicate with\rone another.		
+32	0x20A3	274	Energy Mace\rTactically a very cruel\rweapon, the energy mace does\rmost of its damage when the\rvictim is struck by its five\rhundred gram head. A second\rfeature, an electric shock of\r8000 volts, is delivered to\rthe victim at the same time\rin order to further disable\rthe enemy.		
+33	0x21B7	201	Thermite Launcher\rTaking advantage of the\rsimilarity of the grenade\rlaunchers made by the traders\rin Sector Algieba, the Ethnys\rcreated the Thermite\rLauncher, a weapon that\rbathes its targets in flame.		
+34	0x2282	266	Scroe Special\rThe so-called 'scroe-special'\ris in fact a substandard\rpistol that fires caseless\rrounds. Usually only used by\rthe Scroe for purposes of\rinternal security, it\rsometimes is sold on the open\rmarket. This particular model\rappears to be in very poor\rshape.		
+35	0x238E	293	Battle Laser\rSlighty heavier than an\rAssault Laser, the Battle\rLaser is very long ranged but\rsacrifices a significant\rdegree of its punch to make\rthe range possible. Weapons\rof this sort have reduced the\rnecessity of short range\rbattles that have been\rdictated by shorter ranged\rlaser weapons.		
+36	0x24B5	292	Sossee Dagger\rStrictly a ceremonial weapon,\rthis dagger is greatly\rrevered as a holy symbol.\rUsed in mystery rites for\rages, it now tours\rperiodically as an art\robject. HabStel on Starport\rKochab has reportedly bid\rlarge sums to gain possession\rof the dagger but have so far\rbeen unsucessful.		
+37	0x25DB	262	Laser Sword\rPulsed bursts of laser energy\rare used to create the\r+blade+ of this curious item.\rAlthough it has several\rredeeming features, it\rsuffers from great\rsusceptibility to TechJam and\ris somewhat unwieldy to those\runused to using such an\relaborate weapon.		
+38	0x26E3	266	Plasma Bow\rThis weapon combines the\rgrace of archaic weaponry\rwith the destructive power of\rmodern technology. The plasma\rbow shoots concentrated bolts\rof plasma energy that strike\rand burn their target. A\rgreat deal of damage is done\ragainst foes not wearing\rarmor.		
+39	0x27EF	160	Super Laser\rThe most powerful of the\rlaser weapons, the Super\rLaser operates at the long\rrange of the Battle Laser\rwithout sacrificing\rdestructive capabilities.		
+40	0x2891	161	Atomizer\rThe atomizer delivers a\rfocused beam of x-ray\rradiation that is able to \rpenetrate most normal types\rof armor. Not very effective\ragainst archaic armor.		
+41	0x2934	146	Leather Armor\rBeautifully tooled, this\rleather armor should be able\rto turn back the blades of\rdaggers and reduce damage\rfrom conventional swords.		
+42	0x29C8	230	Chain Mail\rThousands of wrought iron\rrings have been linked\rtogether to form this superb\rsuit of low-tech armor.\rCapable of stopping daggers\rand swords, it is still\rvulnerable to penetration by\rarrows and other projectile\rweapons.		
+43	0x2AB0	245	Plate Mail\rPolished to a shine, this\rplate mail is astonishingly\rsimilar to the plate mail\rfound on Earth during its\rmedieval period. Although it\rwould be poorly matched\ragainst firearms, it should\rstop any less severe kind of\rprojectile attack.		
+44	0x2BA7	180	Flak Jacket\rA fairly heavy form of armor,\rthe flak jacket is designed\rto stop small arms fire at\rshort range. Heavier\rprojectile weapons may still\rpenetrate the skin of this\rarmor.		
+45	0x2C5D	315	Kevlar Suit\rNot so heavy as the standard\rflak jacket, the Kevlar Suit\ris far better suited to\ractual combat situations and\rallows greater freedom of\rmovement. Capable of\rwithstanding heavy arms fire\rat moderate ranges, this is\rthe basic armor that most\rlow-tech societies use for\rthe protection of their\rmilitaries.		
+46	0x2D9A	227	Composite Armor\rCombining lightweight\rconstruction and high stress\rflexibility, this armor is\rcapable of withstanding small\rand moderate arms fire while\rit is still in good\rcondition. Elite officers are\roften issued this armor.		
+47	0x2E7F	223	Reflec Armor\rPitted with thousands of\rsmall parabolic reflectors,\rthis is a high tech armor\rdesigned to shed the\rdevastating effects of small\rlaser fire. Larger scale\rlasers are capable of eating\rquickly through this armor.		
+48	0x2F60	233	Ceramic Armor\rLess vulnerable than reflec\rarmor, ceramic armor can\rwithstand great heat before\rsuccumbing to the effects of\rlaser fire. Wearers should be\radvised, however that a\rprojectile weapon could still\reasily breach such armor.		
+49	0x304B	386	Evian Armor\rDuring the vicious years of\rthe Attrition Conflict, the\rEvians developed this\rfrightening looking black\rarmor as a defense against\rthe rapid-fire weapons\rwielded by the Scroe trench\rarmies. Utilizing a special\rpair of lasers attached to\rthe shoulders of the armor,\rincoming projectiles are\rautomatically vaporized as\rthey approach until the\rsuit's power supply is\rexhausted.		
+50	0x31CF	140	Personal Shield\rThis force-field based armor\ris capable of shedding both\rlaser and 'sub-atomic' fire,\rbut has a relatively low\rbreach value.		
+51	0x325D	321	Modu-Armor\rThis is an active armor\rdesigned to stop 'sub-\ratomic' damage to the wearer.\rBy creating a modulating\rvirtual wall of neutrons\raround the wearer, it endows\rthe ability to see a target\rwhile still providing a solid\rshield around them. If it\rreceives more damage than it\rcan vent, the field will then\rfall apart.		
+52	0x33A0	346	May Field\rDeveloped by Ageus May, this\renergy field has proven to be\rthe most effective armor\ragainst 'sub-atomic' attack.\rBy generating a field of\rgluons around the wearer,\rthis field effectively sheds\rneutron and electron class\rguns. As with the other types\rof 'sub-atomic' armors, it\rstands a chance of\roverloading and imploding on\rits wearer.		
+53	0x34FC	201	Admantine Chain\rThis chain mail is the very\rfinest armor that is possible\rwithin a low-tech society.\rCapable of stopping even\rarrows and small arms fire,\rthis chain is the finest in\rany class of armor.		
+54	0x35C7	183	Teflar Suit\rHighly heat resistant and\rflexible, laser and\rprojectile weaponry are\rchallenged to breach the skin\rof this suit. It is still\rmoderately vulnerable to\r'sub-atomic' attack.		
+55	0x3680	259	Assault Suit\rHighly expensive and greatly\rvalued, this armor was\rcreated by the Ominar for\rtheir defense troops on the\rborders of their territories.\rResistant to all types of\rattack, this suit has a high\rbreach value and can\rwithstand most heavy weapons\rfire.		
+56	0x3785	346	Recon Armor\rMade with the same defenses\ras the Assault Suit, Recon\rArmor was scaled down to\rallow more suits to be made\rwhile cutting costs.\rAlthough its breach value was\rsacrificed, it gained special\rmechanised features which\rallows the wearer to smash\rthrough thin walls. Despite\rits bulky mass, it is still\rquite adequate in battle\rsituations.		
+57	0x38E1	300	Shielded Reflec\rThis special class of reflec\rarmor is designed for\rreconnaissance purposes so\rthat scouting parties stand a\rmoderate chance of survival\rwhen they are unsure of an\renemy's armament. Although\rit is not recommended for\rsustained battles, it is a\rvery good armor for hit and\rrun missions.		
+58	0x3A0F	147	Dreadnaught Suit\rThe Dreadnaught Suit is the\rtoughest armor available in\rthe known galaxy. It offers\rthe greatest protection \ragainst most weapons.		
+59	0x3AA4	165	Escape Code\rA thin plastic card with the\rwords 'Escape Code' written\rin the language of the\rOminar. Tiny bumps on the\rsurface of the card form an \rintricate pattern.		
+60	0x3B4B	196	K-Beam\rOne of the eight pieces of\rthe Centauri Device.  The\rK-Beam generator creates a\rselectively permeable wall of\rpositrons designed to prevent\runwanted matter from coming\rthrough the wormhole.		
+61	0x3C11	163	Harmonic Resonator\rOne of the eight pieces of\rthe Centauri Device.  The\rHarmonic Resonator generates\rgravity waves in the patterns\rneccessary to open the\rwormhole.		
+62	0x3CB6	90	Omega Card\rA thin plastic card with a \rrepresentation of the Alkaid\rsystem engraved on it.		
+63	0x3D12	69	Silver Locket\rA filigreed silver locket in\rthe shape of a royal seal.		
+64	0x3D59	115	Key Card\rDesigned to be used with\rmagnetic door locks, this key\rcard is backed with a thin\rferrous- sensitive tape.		
+65	0x3DCE	257	Algiebian Crystal\rThese crystals have\rtremendous value as power\rsources.  When excited in a\rwarp field, the Algiebian\rCrystals emit a singularly\rcomplex wave which can be\ramplified by a Mass\rConverter. This is one of the\reight pieces of the Centauri\rDevice.		
+66	0x3ED1	231	Algiebian Quarter\rThe face of this Algiebian\rcoin is stamped with the\rimage of Ishtao, president of\rthe Algiebian Empire.\rAlthough coinage has largely\rgone out of use within their\rsystems, they still use coins\rfor vending purposes.		
+67	0x3FBA	169	Kochab-Cola\rBitter tasting and dark, it\rseems remarkable that this\rsoft drink would be popular\rin any sector of the galaxy.\rIt is particularly favored by\rthe Algiebians.		
+68	0x4065	220	Newspaper\rThe newspaper is filled with\rthe usual tabloid fare.\rLIZARDESS WOMAN GIVES LIVE\rBIRTH! graces its cover, but\runder it is a story about the\rGeal A'nai. The cult has\rreportedly been hijacking\rships in the system.		
+69	0x4143	155	Vegan Wine\rPressed by the Ominar, Vegan\rwine has a number of unusual\rproperties. Known to be very\rintoxicating, it is largely\rprohibited in many societies.		
+70	0x41E0	119	Press Pass\rThe press pass bears the\rmasthead logo of the "Nightly\rStalker", the only state\rfunded newspaper on Algieba.		
+71	0x4259	185	Geal A'nai Amulet\rA deeply religious people,\rmany of the Algiebians belong\rto a monastic order known as\rthe Geal A'nai. This amulet\ris often recognized as being\rthe sign of their faith.		
+72	0x4314	262	Sixth Seal\rSuspended on a chain, the\rSixth Seal is one of five\rsuch amulets that is said to\rhave mystical powers.  The\rSixth is markedly different\rin that it has a key-like\rextrusion at its top which\rallows it to open locks that\rhave been made by the Geal\rA'nai.		
+73	0x441C	214	President's Amulet\rTraditionally passed from one\rTorm to the next, the amulet\ris now a symbol of the\rrightful leader of the\rAlgiebian people. Many\rreligious leaders say that\rthe amulet grants its bearer\rgreat luck.		
+74	0x44F4	146	Security Card\rStriped with a bar code on\rthe back, this card allows a\rbearer to enter any door on\rthe Presidential Station in\rorbit of Algieba IV.		
+75	0x4588	258	Algiebian Tal\rThe primary unit of monetary\rexchange within the confines\rof the Algiebian Empire, the\rTal is made of solid gold.\rDespite the inflation that\rruns rampant in the sector,\rthe Tal may still be used for\rthe purchase of wines and\rother necessities. 		
+76	0x468C	102	Visitor Badge\rGrants to the bearer\rvisitation rights to the\rSabik Mining Colony in Sector\rKornephoros.		
+77	0x46F4	172	Industrial Badge\rThis card identifies the\rholder as a trading agent for\rthe Sabik Mining Colony.\rAllows greater visitation\rrights than those granted by\rthe Visitor's Badge.		
+78	0x47A2	276	Sector Clearance Card\rThe Sector Clearance Card is\rmade of a crystaline material\rpermeated with gossamer veins\rof green conduit.  It contains\rall the information necessary\rto fool the communication\rcomputers on Eltanin VII thus\rallowing you authorized access\rfor terminal use.		
+79	0x48B8	174	Skocha Roots\rAn odd clump of vegetable\rmatter, these roots have a\rmild juice in them that is\rusually consumed by Danteans\rto shield them from the\reffects of severe radiation.		
+80	0x4968	140	Pikor\rA mining implement, the Pikor\ris used on several colonies\rin the local group.  A good\rtool for removing boulders\rthat block your path.		
+81	0x49F6	173	Bag Of Diamonds\rA common form of galactic\rexchange, there appear to be\rseveral diamonds of value in\rthis bag.  They are\respecially favored by the\rEthnys and Utreceian races.		
+82	0x4AA5	160	Blast Wear\rMade to protect the wearer\rfrom intense heat and\renvironmental conditions,\rblast wear is a necessary\ritem for people to wear on\rthe surface of Sabik.		
+83	0x4B47	119	Infra Specs\rDesigned to make infra\rencoded messages visible,\rthese goggles are commonly\rused in the Kornephoros\rsector.		
+84	0x4BC0	149	Prong\rThis peculiar object appears\rto have been broken off of\rsome larger object.  Whatever\rfunction it once served, it\rwould seem to be useless now.		
+85	0x4C57	192	Doorspiker\rThis triple pronged key was\rspecially made to fit the\rhands of the Dantean race. An\rinscription code on the\rhandle of the key suggests\rthat it unlocks a door on\rSabik Mining Colony.		
+86	0x4D19	234	ComNav Sq 2345-8.\rThe design of this electronic\rpart would seem to suggest\rthat it is used as a warp\rfield stabilizer for cargo\rclass ships. Although it is\runsuitable for Earth designs,\rit might have value to\rtraders in Sector Caroli.		
+87	0x4E05	213	Gold Wire\rFused at the ends, this\rbroken piece of wire may have\rmelted loose from a larger\rsection of cable. If it is\rused to reconnect the circuit\rit once serviced, it might\rdistract any Microtic\ractivity nearby.		
+88	0x4EDC	194	Logic Circuit Alpha\rThis circuit is the main\rcontrol gate for the\roperation of a Gravitic\rCompressor. If a Beta class\rcircuit is swapped for it, it\rmay cause a reversal of the\rcompression field.		
+89	0x4FA0	176	Logic Circuit Beta\rThis circuit, when used as a\rsecondary circuit, controls\rminor logic functions. When\rplaced in an Alpha Logic\rtower, it will reverse a\rminiaturization field.		
+90	0x5052	169	Strand Viewer\rIf used on Ominar strandware,\rthis device can allow close\rscrutiny of the condition of\rthe material.  It is commonly\rused to sort good strandware\rfrom bad.		
+91	0x50FD	199	Gravitic Compressor\rOne of the eight vital parts\rto the Centauri Device, the\rGravitic Compressor is used\ras the focusing device for\rthe titanic forces that are\rgenerated when the K-Beam is\ractivated.		
+92	0x51C6	264	Requisition Form\rSigned by the chief\rcontroller of the Harvest\rtraffic controller team, this\rrequisition form is filled\rout to the chief engineer of\rOortizam Labs. It still\rappears to need a proper\rcounter signature from the\rOminarian director of the\rOortizam Lab.		
+93	0x52D0	144	Authorized Form\rThe form appears to be\rproperly signed and noted. It\rcan be exchanged at the\rEngineering lab on Ooritzam\rfor a ComNav Sq 2345-8.		
+94	0x5362	92	Mini-Lab Pass\rThis card will allow the\rbearer access to the\rminiaturization lab on\rOoritzam.		
+95	0x53C0	158	Generator\rGasoline fueled, this\rgenerator appears to be very,\rvery old. With some\rmaintenance it might be\rcapable of sustaining a small\rstation's power needs.		
+96	0x5460	99	Sonic Pincers.\rAn alien analogue to pliers,\rthese sonic pincers appear to\rhave had some rugged use.		
+97	0x54C5	291	Blo\rMade of a dark, reedlike\rmaterial, the Blo is a\rmusical instrument\rmanufactured by the Nuskuan\rrace as a morbid amusement.\rAlthough many modern blos are\rmade from plastic,\rtraditional craftsmen still\rmake them from the appendages\rthat the pre-mature Nuskuans\rshed before becoming adults.		
+98	0x55EA	60	Captain's NoteBook\rA notebook that is used for\rtaking notes.		
+99	0x5628	220	Thermaul\rA special form of shovel, the\rthermaul is made for digging\rthrough hard packed layers of\rice and snow.  Enhanced with\ra heated, vibrating tip, it\ris the single most important\rtool for those living on icy\rworlds.		
+100	0x5706	125	Algiebian Invite\rThis invitation will admit a\rparty of visitors to the\rinaugural festivities that\rare underway at Algieba IV.		
+101	0x5785	194	Talking Stick\rHollowed from a very large\rlog, the talking stick is a\rceremonial symbol of the\runity of the Henresian\rpeople.  It may be worth a\rreward if it is returned to\rthe Magin on Subra II.		
+102	0x5849	161	Alien Meat\rThe pelt of the That Which\rStalks Blood is very rank,\rits fur steeped in a strong\rmusky odor. They Who Converse\rmight take it in exchange for\ra favor.		
+103	0x58EC	64	Trinket\rThis is the alien equivalent\rof cheap, plastic, jewelry.		
+104	0x592E	101	Levitator\rA gravitational defeat\rdevice, this levitator can be\rused to move relatively small\robjects.		
+105	0x5995	138	Matches\rMuch like the matches found\ron Earth, these matches could\rbe used to start a relatively\rsmall fire if set to a\rflammable material.		
+106	0x5A21	188	Queen's Standard\rAlthough not used as a\rmilitary banner any longer,\rthe queen's standard was once\rthe battle flag of the Avian\rpeople. It is now the sole\rsymbol of the Queen of the\rAvians.		
+107	0x5ADF	172	Assassins ID\rThe identification code on\rthe card indicates that the\rbearer was from Algieba. It\rseems to implicate that\rIshtao ordered the\rassassination of princess\rJhenna.		
+108	0x5B8D	91	Attagi Com-Code\rThe initialization code for\rthe flight controls of the\rstar cruiser Attagi.		
+109	0x5BEA	130	Eye Glasses\rMade of light wire and finely\rground glass, the eyeglasses\rdon't appear to have been\rmanufactured for a human\rwearer. 		
+110	0x5C6E	103	Choasqa Card 1\rThis card is covered with\ralien symbols, utterly\rindecipherable to your\rmamillian brain.		
+111	0x5CD7	103	Choasqa Card 2\rThis card is covered with\ralien symbols, utterly\rindecipherable to your\rmamillian brain.		
+112	0x5D40	103	Choasqa Card 3\rThis card is covered with\ralien symbols, utterly\rindecipherable to your\rmamillian brain.		
+113	0x5DA9	103	Choasqa Card 4\rThis card is covered with\ralien symbols, utterly\rindecipherable to your\rmamillian brain.		
+114	0x5E12	103	Choasqa Card 5\rThis card is covered with\ralien symbols, utterly\rindecipherable to your\rmamillian brain.		
+115	0x5E7B	182	Gravity Bar\rFor reasons unknowable to\rhumans, algiebans consider\rthis device to be worth\rrisking their wealth over.\rThe only known use of a \rgravity bar is Teletrans\rwave modulation.		
+116	0x5F33	78	Technician's ID\rAn I.D. badge that signifies\ryou as an able bodied\rtechnician.		
+117	0x5F83	51	Transformer\rA simple piece of electrical\requipment.		
+118	0x5FB8	122	Spare Parts\rMost of the parts in this box\rare fairly low-tech items.\rSpare parts trade is very\rgood in Sector Kornephoros.		
+119	0x6034	238	Uni-Lock\rA hand held device, the\runi-lock uses a secured\rfrequency to open infrared\rcontrolled locks. Disused in\rmost sections of the galaxy,\rmany traders in Kornephoros\rsector are still forced to\rwork with this outmoded form\rof security.		
+120	0x6124	130	Deed #38466\rSecured by HabStel's legal\ragents, this planetary deed\rtransfers ownership of a\rplanet in Sector Alhena to\rthe bearer.		
+121	0x61A8	183	Mass Converter\rUsed for the conversion of\rmass to energy, this device\roperates like a large scale\rtele-trans. It is one of the\reight parts required to\rreconstruct the Centauri\rDevice.		
+122	0x6261	191	Cyber Credit\rBacked by the Cyber bank on\rShadowside, this credit card\rhas a very low circulation,\rcarried usually by members of\rthe trading underworld.  It\ris commonly used by arms\rmerchants.		
+123	0x6322	220	Perfume\rAlthough its scent is very\runpleasant to humans, this\rperfume is very popular with\rmany alien races. Rather than\rusing antiperspirant methods,\rmany aliens simply apply this\rmixture of crushed grubs to\rthemselves.		
+124	0x6400	93	10 Credit Card\rThis credit card is only\raccepted on Starport Kochab.\rIt is worth ten credits.		
+125	0x645F	183	Lozam Loaf\rGolden and full, the lozam\rloaf is made from a grain\rvery similar to wheat. A\rdesigner food, this strain\rhas great promise to end\rcases of famine in this arm\rof the galaxy.		
+126	0x6518	116	Shroud Admission\rAdmits the bearer and a small\rparty to see the fabled\rShroud of Kriq on display at\rStarport Kochab.		
+127	0x658E	104	Music Box\rRemarkably like the music\rboxes on Earth, this\rcuriosity looks as if it may\rhave been damaged.		
+128	0x65F8	117	Particle Pak\rThis relatively small item is\ractually the ammunition\rsupply for weapons using sub-\ratomic technologies.		
+129	0x666F	223	Neutrino Cache\rHeavier than the particle\rpak, the neutrino cache\rcontains neutrinos within a\rvery special field. When used\rwith sub-atomic weapons it\rprovides a hefty ammunition\ras the neutrinos are released\rfrom the field.		
+130	0x6750	148	Power Cell\rOne of two types of\rammunition available for\rlaser weapons, a power cell\ris the standard energy supply\rfor general issue energy\rweaponry.		
+131	0x67E6	103	Energy Bank\rDesigned specifically for\rassault weapons, this energy\rbank will power heavy energy\rbursts.		
+132	0x684F	218	Ammo Clip\rNine millimeter shells are\rthe standard load for this\rtype of clip, made\rspecifically to feed the\rBeretta 2043-UFS pistol. A\rsmall adjustment slide on the\rback allows for it to use\rother sizes as need arises.		
+133	0x692B	140	Heavy Magazine\rDesigned to hold explosive\rtipped loads, the heavy\rmagazine can be used with a\rvariety of different\rprojectile based weapons.		
+134	0x69B9	135	First Aid Pak\rMade to deal with minor\rwounds only, the first aid\rpak is an invaluable aid to\ranyone venturing in dangerous\rterritories.		
+135	0x6A42	273	Trauma Kit\rEquipped with basic first aid\raccessories, this kit is also\renhanced with a small\rcellular regeneration kit.\rAlthough it rapidly depletes\rits energy supply, this item\rcan bring an injured person\rback to complete health if\rthe victim still has minimal\rlife signs.		
+136	0x6B55	423	Shroud of Kriq\rSeized by a cult of religious\rzealots during the great\runrest that was typical of\rthe first years of Sector\rKornephoros, the Shroud of\rKriq is actually a very\rsophisticated piece of\rmedical equipment.  Knitted\rinto this fine net of\rmaterial is a high-tech\rcellular regenerator coupled\rwith an intense biofield\rgenerator. When used, it can\rbring the dead back to life,\rbut its charges are\rstartlingly limited.		
+137	0x6CFE	117	Ulfas Cloth\rVery highly valued, this\rcloth is very highly prized,\respecially by traders dealing\rin colonial supplies.		
+138	0x6D75	129	Video Reader\rA small hand held device, it\ris used to scan video\rrecorded documents.  This\rparticular model seems to be\rdefective.		
+139	0x6DF8	139	Sonrai Sticks\rNo one is quite certain what\rare done with these strange\rsticks, but the Chytti will\roften pay great sums for\rtheir purchase.		
+140	0x6E85	108	Gallery Admission\rThis ticket will allow a\rparty of visitors to enter\rthe Life Gallery Zoo in\rSector Caroli.		
+141	0x6EF3	220	Slieth Egg\rAn endangered species, the\rSlieth are now under the\rEndangered Species Act of\r2031. The largest collection\rof Slieth and Slieth eggs\routside of their native\renvironment is in the Life\rGallery in Sector Caroli.		
+142	0x6FD1	230	Caged Nochh\rNoted for their savage\rnature, Nochh are becoming\rincreasingly rare in natural\renvironments. This caged\rcreature would probably have\rthe best chance of survival\rif left in the care of the\rLife Gallery in Sector\rCaroli.		
+143	0x70B9	36	Eldarin Book\rA book of alien origin.		
+144	0x70DF	35	Chytti Book\rA book of alien origin.		
+145	0x7104	257	Decorative Orb\rOn Denebola IV, a number of\rthese orbs were ordered for\rthe decoration of the\rexterior courtyard of their\rsacred temple. Although most\rhad no function other than to\rlook attractive, some were\rplaced on pedestals in order\rto open secret doors.		
+146	0x7207	204	Tractor Part\rThis grease covered\rcontraption is actually a\rvery important part in the\roperation of hydrogen\rperoxide engines. It is\rtypically found in tractors\rand harvesters like those\rfound on Alula IV.		
+147	0x72D5	131	Eldarin Pot\rPainted with bright reds and\ryellows, this pot appears to\rbe painted with the\rtraditional logos of the\rancient Eldarin.		
+148	0x735A	109	Ordinary Key\rRusty and brown, this\rextraordinarily large key\rlooks like it was made to fit\ran old style lock.		
+149	0x73C9	262	*Technical Plans*\rBlueprints, documentations\rand mathematical formulae are\rscrawled on every page on\rthese technical plans. If\rreturned to Moonbase, they\rmay have valuable technical\rinformation that will allow\rthem to upgrade your ship\rconstruction and weaponry.		
+150	0x74D1	108	Fire Extinguisher\rThis device can be used to\rsnuff out flames that can\rblock or injure contact team\rmembers.		
+151	0x753F	230	Delta Driver\rOne of a set of three highly\rspecialized tools, the Delta\rDriver is a military device\rused in the deactivation of a\rDhoven Proximity Bomb.  When\rused in combination with its\rtwo companion tools it is\rvery safe to use.		
+152	0x7627	140	Mirror Shard\rMade from a section of plate\rglass and backed with silver,\rthis shard looks like it has\rbeen broken off a larger\rvanity mirror.		
+153	0x76B5	255	Flight Recorder\rTaking the familiar form of\ralien black box technology,\rthis flight recorder will\rhave the travel record of the\rCebis Alban recorded in its\rtape loops. Generally\rstarpilots are the only ones\rcapable of interpreting the\rinformation on them.		
+154	0x77B6	230	Alien Medipak\rDue to the nature of the\rmaterials included in this\rmedical pack, it would be\rhighly inadvisable to\radminister these materials on\ra human being.  The markings\ron the package denote it as\rbeing intended for Cebesians.		
+155	0x789E	148	Mini Aid Paks\rAlthough most of the medical\rsupplies in this pack are\rincompatible with human\rbiology, some of them should\rwork if correctly applied.		
+156	0x7934	95	Alien Doll\rThis object is an alien\rplaything, designed in all\rprobability for a young\rCebesian.		
+157	0x7995	228	Leader's Stone\rThe dark blue stone inset in\rthis piece of jewelry is the\rtraditional symbol of the\rleader of the Cebesians.\rAlthough it has little\rmonetary value, those who\rwear it are treated with\rutmost respect by other\rraces.		
+158	0x7A7B	197	Android Tool\rIf used on a damaged android,\rthis remote control can dump\rthe android's last thoughts\rin audio form. This tool is\rvery useful when information\ris needed from heavily\rdamaged androids.		
+159	0x7B42	79	Harvest Key\rThis pass key will unlock the\rdoor to the Control Deck on\rAlula IV.		
+160	0x7B93	132	Sack Of Lozam\rHeavier than it looks, this\rsack of lozam is streaked\rwith brownish slicks of\rlubricant created by leaky\rmechgrippers.		
+161	0x7C19	80	Stone\rA fairly common kind of\rstone, this rock is for the\rmost part featureless.		
+162	0x7C6B	142	Ysaf Note\rScrawled hastily in the hand\rof the chief controller on\rAlula IV,this note is\rintended for the Eldarin\rleader, Ysaf, on Denebola IV.		
+163	0x7CFB	155	Dhoven Deed\rThis deed has been heavily\rencrypted by a Dhoven legate\rbut does not bear the proper\rfinal seal of approval by the\rSecretary of Sector Affairs.		
+164	0x7D98	165	Numismat Deed\rThis deed, heavily encrypted\rby a Dhoven legate, appears\rto be in order. It bears a\rmark that urges immediate\rdelivery to the Dhoven\rStation at Hyades.		
+165	0x7E3F	210	Krupp Shields\rMade of a superdense\rmaterial, the Krupp Shields\rwill prevent radiation leaks\rthat are common with large\rscale engines. It will be\rneeded at Moonbase for the\rreconstruction of the\rCentauri Device.		
+166	0x7F13	137	Planet Deed\rThe deed, though properly\rprocessed, is utterly\rworthless.  It is a deed for\ra dead and mineral poor\rplanet in Sector Alhena.		
+167	0x7F9E	233	Fixit Kit\rA Packet of tech tools\rdesigned to repair armor that\rhas been damaged in the\rcourse of duty. The\rcomplexity of the tools would\rsuggest that a character with\ra higher Item Repair ability\rwill get better results from\rthe kit.		
+168	0x8089	129	Cyber Boots\rA combination of gravitic and\rrobotic technology, the cyber\rboots permit their wearer to\rjump twice as far as before.		
+169	0x810C	191	Rubber Stamp\rFound in beaurocracies all\racross the universe, the\rrubber stamp is the friend of\rpaper-pushers everywhere.\rThis particular stamp bears\rthe seal of the Numistat of\rAlhena sector.		
+170	0x81CD	317	Alien Regen\rReminiscent of the chemicals\rfound in some zombie movies,\rthis stange spray-on mist\rwill literaly bring the dead\rback to life.  Unfortunately,\rit only makes dead humans\rtwitch a little.  Remember\rthat most aliens don't like\rgetting killed, and may still\rbe a little upset when you\rwake them from the dead.		
+171	0x830C	68	Ship Plans\rA technical readout of\rsystems designed for a space\rship.		
+172	0x8352	200	Last Stanza\rThe phrases written on the\rscrap of paper appear to be\rpart of a poem:  Replace my\rname And Secundus fear The\rrevenge of Conciere!  So now\rI claim Defender Last And\rSecundus learn to fear!		
+173	0x841C	88	Used Eyeballs\rThese cybernetic eyeballs\rrequire cybernetic sockets\rto function properly.		
+174	0x8476	135	Jar of Uru\rA clear jar filled with a\rsemi-solid jell not\raltogether unlike jam. The \rlid of the jar bears the mark\rof the Ethnys Queen.		
+175	0x84FF	109	Sphere of Themi\rA pearl-like sphere, cold to\rthe touch. Scans determine\rpossible origins in the Ankaq\rsector.		
+176	0x856E	153	Golden Trident\rA golden trident with a\rwooden shaft. The artifact\rappears to be ceremonial.\rAnalysis of the metal reveals\rit to be from the Ankaq\rsector.		
+177	0x8609	105	Coral Instrument\rA delicately crafted musical \rinstrument, made of coral.\rThe design is completely\ralien.		
+178	0x8674	139	Grav Buoy\rA black, rectangular box full\rof wires with a focusing\rmechanism on one end. The\rmetal of the box is unique to\rthe Zaurak sector.		
+179	0x8701	119	Wet Suit\rA diving suit with self\rcontained breathing device.\rMuch like an advanced version\rof standard S.C.U.B.A. gear.		
+180	0x877A	160	Fake Sphere\rA pearl-like sphere. Scans\rdetermine the material of the\rsphere to be an artificial\rrepresentation of another \rsubstance found in the Ankaq \rsystem.		
+181	0x881C	36	Anti-Mat Grenade\rA powerful grenade.		
+182	0x8842	84	Mind Net Key\rA thin plastic card with a\rholograph of the word\r'MindNet' on its face.		
+183	0x8898	135	Control Spike\rA long, thin silver spike\rwith a diamond tip. The tip\ris cut in an intricate shape\rthat suggests its use may be\ras a key.		
+184	0x8921	144	Control Crystals\rTranslucent crystals grown in\rstrange formations.\rSpectrograph shows the\rcrystals to contain trace \relements found on Alnasl 1.		
+185	0x89B3	95	P.C. Strandware\rA vial of genetic material\rsuspended in fluid. The vial\ris labeled 'Proconsul.'		
+186	0x8A14	104	Regular Strandware\rA vial of genetic material\rsuspended in fluid. The vial\ris labeled 'Standard Ominar.'		
+187	0x8A7E	99	Gold Sphere\rA golden globe.\rRadiospectrograph identifies\rthe metal as coming from the\rAlrai system.		
+188	0x8AE3	105	Platinum Sphere\rA platinum globe.\rRadiospectrograph identifies\rthe metal as coming from the\rAlrai system.		
+189	0x8B4E	101	Bronze Sphere\rA bronze globe.\rRadiospectrograph identifies\rthe metal as coming from the\rAlrai system.		
+190	0x8BB5	105	Invisible Idiot\rA flat plastic card with the\rwords Invisible Idiot written\rin the language of the\rUtrece.		
+191	0x8C20	107	Marathon Victory\rA flat plastic card with the\rwords Marathon Victory\rwritten in the language of\rthe Utrece.		
+192	0x8C8D	97	Blind Faith\rA flat plastic card with the\rwords Blind Faith written in\rthe language of the Utrece.		
+193	0x8CF0	105	Virtual Reality\rA flat plastic card with the\rwords Virtual Reality written\rin the language of the\rUtrece.		
+194	0x8D5B	97	Cold Reason\rA flat plastic card with the\rwords Cold Reason written in\rthe language of the Utrece.		
+195	0x8DBE	108	Sphere of Rhys\rA pearl-like sphere, cold to\rthe touch. Scans determine\rpossible origins in the Ankaq\rsector.		
+196	0x8E2C	107	Sphere of Awa\rA pearl-like sphere, cold to\rthe touch. Scans determine\rpossible origins in the Ankaq\rsector.		
+197	0x8E99	101	Silver Sphere\rA silver globe.\rRadiospectrograph identifies\rthe metal as coming from the\rAlrai system.		
+198	0x8F00	19	Utrecian Key\rA key.		
+199	0x8F15	162	Mintap\rA small box with three wires \rdangling from one end. The \rconnecters on the ends of the\rwires would suggest this to\rbe some kind of cybernetic\rdata module.		
+200	0x8FB9	137	Commnet\rA container with twenty\rreceptacles, or jacks, on\ropposite sides. The device\rappears to be a \rcommunications networking \rstation.		
+201	0x9044	38	Tschi Tai Pin\rAn identification badge.		
+202	0x906C	110	Sphere of Harmon\rA pearl-like sphere, cold to\rthe touch. Scans determine\rpossible origins in the Ankaq\rsector.		
+203	0x90DC	96	Datatape\rA cartridge somewhat like a \rcassette, with magnetic tape\rwound around a graphite core.		
+204	0x913E	67	Death Threat\rA formal letter addressed to\rMovrin Sepo from Wiretap.		
+205	0x9183	147	Hataphas Gem\rA gem that looks rather like\ran eyeball. Analysis of the\rmaterial of the gem suggests\rit may originate from Izar 2\rin the Izar sector.		
+206	0x9218	116	N.I.C.T.U.\rA mechanical device that\rlooks exactly like one of the\rpieces found on the plans for\rthe Centauri device.		
+207	0x928E	101	Weird Science\rA flat plastic card with the\rwords Weird Science written\rin the language of the\rUtrece.		
+208	0x92F5	128	Star Stone\rA leather pouch containing\r107 sparkling stones. The\rmaterial of the stones is\rknown to be unique to the\rIzar system.		
+209	0x9377	131	Jammer\rA small, electro-mechanical\rdevice with a small antenna\rprotruding from one end and a\rred dial in the middle of a\rpalm grip.		
+210	0x93FC	72	Letters\rStationary with writing that\rappears to be in some sort of\rcode.		
+211	0x9446	38	Official Papers\rIdentification papers.		
+212	0x946E	114	Algo Cam\rA mechanical device that\rlooks exactly like one of the\rpieces found on the plans for\rthe Centauri device.		
+213	0x94E2	32	ISC Pin\rAn identification badge.		
+214	0x9504	68	Funny Hat\rA workers cap with a brim\rthat goes all the way around\rit.		
+215	0x954A	76	Maint Card\rA thin plastic card with\rholographic code printed on\rthe surface.		
+216	0x9598	78	Nav Beacon\rA small cylindrical shaped\rdevice with flashing lights\ron its ends.		
+217	0x95E8	155	ID Case\rA wooden box with a bottle of\rreddish liquid. Scans\rindicate the liquid to be a\rdistillate of fruits\rindigenous to Vindemiatrix in\rthe Izar sector.		
+218	0x9685	122	Cevitic Balancer\rA clear plastic globe with\rsmaller globes floating\rinside. Appears to be part of\ra transport beam device.		
+219	0x9701	120	Optical Key\rA thin plastic card with a \rholographic code printed on\rthe surface. The holographic\ris of Eth/Muni symbols.		
+220	0x977B	11	Ship Hull 1		
+221	0x9788	11	Ship Hull 2		
+222	0x9795	11	Ship Hull 3		
+223	0x97A2	11	Ship Hull 4		
+224	0x97AF	11	Ship Hull 5		
+225	0x97BC	11	Ship Hull 6		
+226	0x97C9	11	Ship Hull 7		
+227	0x97D6	6	Ship 7		
+228	0x97DE	7	Alien 1		
+229	0x97E7	7	Alien 2		
+230	0x97F0	7	Alien 3		
+231	0x97F9	7	Alien 4		
+232	0x9802	7	Alien 5		
+233	0x980B	7	Alien 6		
+234	0x9814	7	Alien 7		
+235	0x981D	7	Torp -1		
+236	0x9826	7	Torp -2		
+237	0x982F	7	Torp -3		
+238	0x9838	7	Torp -4		
+239	0x9841	7	Beam -1		
+240	0x984A	7	Beam -2		
+241	0x9853	7	Beam -3		
+242	0x985C	7	Beam -4		
+243	0x9865	7	Bolt -1		
+244	0x986E	7	Bolt -2		
+245	0x9877	7	Bolt -3		
+246	0x9880	7	Bolt -4		
+247	0x9889	7	Proj -1		
+248	0x9892	7	Proj -2		
+249	0x989B	7	Proj -3		
+250	0x98A4	7	Proj -4		
+255	0x0200	7	Objects		
