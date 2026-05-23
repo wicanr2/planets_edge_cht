@@ -1,397 +1,397 @@
 file_offset	len	kind	original_en	translation_zh	notes
-0x00014CF0	19	UI	Ship's Beam Weapons		
-0x00014D04	19	UI	Ship's Bolt Weapons		
-0x00014D18	19	UI	Ship's Proj Weapons		
-0x00014D4F	11	UI	Ship Repair		
-0x00014D5B	11	UI	Item Repair		
-0x00014D71	13	UI	Light Weapons		
-0x00014D7F	13	UI	Heavy Weapons		
-0x00014D8D	12	UI	Hand Weapons		
-0x00014D9A	9	UI	First Aid		
-0x00014DD7	12	UI	Heavy Metals		
-0x00014DE4	12	UI	Inert Gasses		
-0x00014DF1	11	UI	Soft Metals		
-0x00014DFD	13	UI	Common Liquid		
-0x00014E0B	13	UI	Hybrid Solids		
-0x00014E19	12	UI	Alien Gasses		
-0x00014E26	12	UI	Alien Metals		
-0x00014E33	13	UI	Alien Isotope		
-0x00014E41	13	UI	Alien Crystal		
-0x00014E4F	13	UI	Alien Organic		
-0x00014E5D	13	UI	Alien Liquids		
-0x00014E6B	11	UI	Rare Elmnts		
-0x00014E77	10	UI	New Elmnts		
-0x00014E87	5	UI	 Rght		
-0x00014E92	5	UI	 Left		
-0x00014EA4	14	UI	Storage Yard A		
-0x00014EB3	14	UI	Storage Yard B		
-0x00014EC2	14	UI	Storage Yard C		
-0x00014ED1	20	UI	Equipment Pickup Pad		
-0x00014EE6	14	UI	Final Assembly		
-0x00014EF5	18	UI	Remote Arm(Canada)		
-0x00014F08	11	UI	Larger Part		
-0x00014F14	12	UI	Smaller Part		
-0x00014F21	14	UI	Next Part Type		
-0x00014F30	18	UI	Previous Part Type		
-0x00014F43	14	UI	Return to Base		
-0x00014F52	10	UI	Place Part		
-0x00014F5D	18	UI	Scrap Current Ship		
-0x00014F70	10	UI	Mk1 Engine		
-0x00014F7B	10	UI	Mk2 Engine		
-0x00014F86	10	UI	Mk3 Engine		
-0x00014F91	10	UI	Mk4 Engine		
-0x00014F9C	10	UI	Mk5 Engine		
-0x00014FA7	10	UI	Mk6 Engine		
-0x00014FB2	10	UI	Mk7 Engine		
-0x00014FEF	10	UI	X-Ray Beam		
-0x00014FFA	10	UI	Mega Laser		
-0x00015005	10	UI	Quark Beam		
-0x00015010	9	UI	Grav Bolt		
-0x0001501A	10	UI	Magna Bolt		
-0x00015025	10	UI	Phase Bolt		
-0x00015030	10	UI	Death Bolt		
-0x00015042	10	UI	Mass Drivr		
-0x0001504D	8	UI	Rail Gun		
-0x00015056	8	UI	Rack Gun		
-0x0001505F	7	UI	Orange 		
-0x00015079	8	UI	Leopard 		
-0x00015959	36	UI	Thank you for playing Planet's Edge.		
-0x00015987	5	UI	%s.%s		
-0x00015995	5	UI	%s.%s		
-0x000159A3	5	UI	%s.%s		
-0x000159B1	5	UI	%s.%s		
-0x000159BF	5	UI	%s.%s		
-0x000159CD	5	UI	%s.%s		
-0x000159D3	14	UI	|/-\\No hash %s		
-0x000159E2	10	UI	No hash %s		
-0x00015A39	11	UI	%-19s: %-3d		
-0x00015AC6	14	UI	Can't load lcp		
-0x00015AD5	18	UI	Can't load tileset		
-0x00015AE8	18	UI	Can't load tileset		
-0x00015AFB	18	UI	Can't load tileset		
-0x00015B0E	18	UI	Can't load tileset		
-0x00015B21	18	UI	Can't load tileset		
-0x00015B44	10	UI	Cargo (%d)		
-0x00015BDC	12	UI	Top Speed:%d		
-0x00015BE9	12	UI	Accel    :%d		
-0x00015BF6	12	UI	Turn Mode:%d		
-0x00015C03	15	UI	Nav Comp :%d-%d		
-0x00015C13	15	UI	Tar Comp :%d-%d		
-0x00015C23	12	UI	%-2d %10s %c		
-0x00015C30	6	UI	%-2d c		
-0x00015C40	5	UI	%-15s		
-0x00015C46	6	UI	ts:%1d		
-0x00015C4D	6	UI	tm:%1d		
-0x00015C72	7	UI	No Ship		
-0x00015C7A	11	UI	Pirate Ship		
-0x00015C86	11	UI	Heavy Scout		
-0x00015C92	13	UI	Light Cruiser		
-0x00015CA0	11	UI	War Cruiser		
-0x00015CAC	10	UI	Laser Boat		
-0x00015CB7	15	UI	Assault Cruiser		
-0x00015CC7	15	UI	Small Frieghter		
-0x00015CD7	15	UI	Large Freighter		
-0x00015CF0	15	UI	Armed Transport		
-0x00015D00	18	UI	Priority Freighter		
-0x00015D13	18	UI	Military Freighter		
-0x00015D26	11	UI	Indy Runner		
-0x00015D32	11	UI	Indy Runner		
-0x00015D3E	16	UI	Orbital Platform		
-0x00015D4F	16	UI	Defense Platform		
-0x00015D60	15	UI	Orbital Station		
-0x00015D70	12	UI	Base Station		
-0x00015D7D	14	UI	Battle Station		
-0x00015D8C	9	UI	Star Base		
-0x00015D96	16	UI	Orbital Fortress		
-0x00015DA7	11	UI	Alien Thief		
-0x00015DB3	11	UI	Light Rogue		
-0x00015DBF	11	UI	Heavy Rogue		
-0x00015E03	8	UI	Gun Ship		
-0x00015E15	12	UI	Laser Launch		
-0x00015E3C	14	UI	Battle Cruiser		
-0x00015E4B	8	UI	The Wind		
-0x000164FC	11	UI	Ship Status		
-0x00016508	10	UI	Dump Cargo		
-0x00016513	11	UI	Ship Status		
-0x00016530	14	UI	Automatic Fire		
-0x0001653F	11	UI	Manual Fire		
-0x0001654B	13	UI	Switch Target		
-0x00016567	17	UI	Engage Auto-Pilot		
-0x00016579	12	UI	View Starmap		
-0x00016593	7	UI	Go Slow		
-0x0001659B	7	UI	Go Fast		
-0x000165A3	14	UI	Manual Control		
-0x000165B2	10	UI	Never mind		
-0x000165BD	9	UI	Heal crew		
-0x000165C7	11	UI	Scan target		
-0x000165DF	13	UI	Close Channel		
-0x000165ED	12	UI	Pursuit Mode		
-0x000165FA	14	UI	Cancel Pursuit		
-0x00016609	9	UI	Pay Cargo		
-0x00016613	10	UI	Load Cargo		
-0x0001661E	9	UI	Beam Down		
-0x00016628	10	UI	Touch Down		
-0x00016633	11	UI	Enter Orbit		
-0x0001663F	11	UI	Leave Orbit		
-0x0001664B	17	UI	Where to captain?		
-0x0001665D	16	UI	Destination sir?		
-0x0001666E	22	UI	Head for which system?		
-0x00016685	13	UI	Aye, captain?		
-0x00016693	21	UI	Your command captain?		
-0x000166A9	17	UI	What do you need?		
-0x000166BB	17	UI	Request, captain?		
-0x000166CD	29	UI	You wanted something captain?		
-0x000166EB	25	UI	If I may be of service...		
-0x000167D2	25	UI	Our payment was rejected.		
-0x000167EC	35	UI	Cargo Transfered. They are leaving.		
-0x00016810	24	UI	%d units of %s received.		
-0x00016829	25	UI	Our payment was rejected.		
-0x00016843	20	UI	Transaction aborted.		
-0x00016858	25	UI	Our payment was rejected.		
-0x00016872	33	UI	Cargo Transfered. Access Granted.		
-0x00016894	23	UI	Too close to disengage!		
-0x000168AC	25	UI	Their ships are too fast!		
-0x000168C6	20	UI	Breaking off combat.		
-0x000168DB	31	UI	Repeat command to destroy ship.		
-0x000168FB	24	UI	Self-destruct Initiated.		
-0x00016914	25	UI	Prepare for base assault!		
-0x0001692E	16	UI	Commence Attack!		
-0x0001693F	25	UI	Cargo detected in debris.		
-0x00016959	12	UI	Crew healed.		
-0x00016966	29	UI	The is nothing I can do here.		
-0x00016984	37	UI	Please find something for me to scan!		
-0x000169C2	28	UI	The base is jamming my scan.		
-0x000169DF	39	UI	The planet has no acceptable locations.		
-0x00016A07	35	UI	The base is jamming our tele-trans.		
-0x00016A2C	21	UI	Setting course for %s		
-0x00016A42	21	UI	Autopilot Disengaged.		
-0x00016A69	16	UI	Pursuit mode %s.		
-0x00016A7A	17	UI	Leaving obit sir.		
-0x00016A8C	29	UI	Orbital Trajectory locked in.		
-0x00016AAA	21	UI	Pursuit mode enabled.		
-0x00016AC0	22	UI	Evasion mode endabled.		
-0x00016AD7	24	UI	Low speed mode endabled.		
-0x00016AF0	25	UI	High speed mode endabled.		
-0x00016B0A	23	UI	Manual control enabled.		
-0x00016BE9	13	UI	Assault Rifle		
-0x00016C0D	12	UI	Machine Gun?		
-0x00016C72	13	UI	Assault Laser		
-0x00016C96	13	UI	Electron Gun@		
-0x00016CDB	18	UI	Sub-Atomic Blaster		
-0x00016CFF	14	UI	Blue Quark Gun		
-0x00016D23	10	UI	Smart Guna		
-0x00016D43	16	UI	Grenade Launcher		
-0x00016D67	16	UI	Plasma Generator		
-0x00016DC7	17	UI	Mono-Mol Disk Gun		
-0x00016DEB	13	UI	Defense Wave@		
-0x00016E52	13	UI	Cygnus Cannon		
-0x00016E76	12	UI	Chain Sword?		
-0x00016E98	15	UI	Rocket Launcher		
-0x00016EBC	10	UI	Death Ray=		
-0x00016EDC	17	UI	Microtic Injector		
-0x00016F00	14	UI	Tac Nuke Rifle		
-0x00016F24	14	UI	Breach Missile		
-0x00016FA6	17	UI	Thermite Launcher		
-0x00016FCA	13	UI	Scroe Special		
-0x00016FEE	13	UI	Battle Laserd		
-0x00017011	13	UI	Sossee Dagger		
-0x00017035	12	UI	Laser Sword?		
-0x000171D5	15	UI	Personal Shield		
-0x0001723A	15	UI	Admantine Chain		
-0x0001725E	12	UI	Teflar Suit?		
-0x000172BF	15	UI	Shielded reflec		
-0x000172E3	16	UI	Dreadnaught Suit		
-0x00017337	18	UI	Harmonic Resonator		
-0x0001736E	13	UI	Silver Locket		
-0x000173A3	18	UI	Algiebian Crystals		
-0x000173C0	17	UI	Algiebian Quarter		
-0x00017445	17	UI	Geal A'nai Amulet		
-0x0001747C	17	UI	Presidents Amulet		
-0x00017499	13	UI	Security Card		
-0x000174B6	13	UI	Algiebian Tal		
-0x000174EF	16	UI	Industrial Badge		
-0x0001750C	16	UI	Sector Clearance		
-0x0001755B	14	UI	Bag O Diamonds		
-0x000175DC	16	UI	ComNav Sq 2345-8		
-0x00017612	19	UI	Logic Circuit Alpha		
-0x0001762F	18	UI	Logic Circuit Beta		
-0x0001764C	16	UI	Microchip Viewer		
-0x00017669	19	UI	Gravitic Compressor		
-0x00017686	16	UI	Requisition Form		
-0x000176A3	15	UI	Authorized Form		
-0x000176C0	13	UI	Mini-Lab Pass		
-0x000176F6	13	UI	Sonic Pincers		
-0x00017756	15	UI	Algieban Invite		
-0x00017773	13	UI	Talking Stick		
-0x000177F1	15	UI	Queens Standard		
-0x0001782A	15	UI	Attagi Com-Code		
-0x00017862	15	UI	Choassqa Card 1		
-0x0001787F	15	UI	Choassqa Card 2		
-0x0001789C	15	UI	Choassqa Card 3		
-0x000178B9	15	UI	Choassqa Card 4		
-0x000178D6	15	UI	Choassqa Card 5		
-0x0001790E	14	UI	Technicians ID		
-0x00017994	14	UI	Mass Converter		
-0x000179E4	14	UI	10 Credit Card		
-0x00017A1D	16	UI	Shroud Admission		
-0x00017A53	13	UI	Particle Pack		
-0x00017A77	14	UI	Neutrino Cache		
-0x00017A9B	11	UI	Power CellS		
-0x00017AFE	14	UI	Heavy Magazine		
-0x00017B22	14	UI	First Aid Pack		
-0x00017B46	11	UI	Trauma Kitb		
-0x00017B67	14	UI	Shroud of Kriq		
-0x00017B8B	12	UI	Ulfas Cloth?		
-0x00017BC2	13	UI	Sonrai Sticks		
-0x00017BDF	17	UI	Gallery Admission		
-0x00017C30	13	UI	Desolate Book		
-0x00017C68	14	UI	Decorative Orb		
-0x00017CD8	17	UI	*Technical Plans*		
-0x00017CF5	17	UI	Fire Extinguisher		
-0x00017D4A	15	UI	Flight Recorder		
-0x00017D67	14	UI	Alien Medipack		
-0x00017D83	14	UI	Mini Aid Packs		
-0x00017DA7	11	UI	Alien Doll.		
-0x00017E79	13	UI	Numistat deed		
-0x00017E96	13	UI	Krupp Shields		
-0x00017F5B	15	UI	The Last Stanza		
-0x00017FAE	15	UI	Sphere of Themi		
-0x00017FCB	14	UI	Golden Trident		
-0x00017FE8	16	UI	Coral Instrument		
-0x00018057	16	UI	Anti-Mat Grenade		
-0x00018090	13	UI	Control Spike		
-0x000180AD	16	UI	Control Crystals		
-0x000180CA	15	UI	P.c. Strandware		
-0x00018139	13	UI	Bronze Sphere		
-0x00018156	15	UI	Invisible Idiot		
-0x00018173	16	UI	Marathon Victory		
-0x000181AB	15	UI	Virtual Reality		
-0x000181E3	14	UI	Sphere o Rhyth		
-0x00018200	13	UI	Sphere of Awa		
-0x0001821D	13	UI	Silver Sphere		
-0x00018283	13	UI	Tschi Tai Pin		
-0x000182A0	16	UI	sphere of Harmon		
-0x00018326	18	UI	Wierd Science Code		
-0x0001838A	15	UI	Official Papers		
-0x0001843A	15	UI	Cevitic Balance		
-0x000184DB	14	UI	Don't build me		
-0x00018792	18	UI	Can't load sconpan		
-0x000187B9	6	UI	sp:%1d		
-0x000187C6	6	UI	DA:%2d		
-0x000187F3	7	UI	%s Game		
-0x00018811	9	UI	Saving %s		
-0x00018821	6	UI	%s.sav		
-0x00018832	10	UI	Loading %s		
-0x0001883D	6	UI	%s.sav		
-0x000189D7	17	UI	Can't load font!!		
-0x00018A9C	18	UI	Can't load sconpan		
-0x00018AD8	18	UI	Can't load sconpan		
-0x00018B3C	12	UI	William Dean		
-0x00018B49	14	UI	Katya Mershova		
-0x00018B58	16	UI	Nelson Ngatadatu		
-0x00018B69	15	UI	Osai Tsakafuchi		
-0x00018B79	12	UI	William Dean		
-0x00018B86	14	UI	Katya Mershova		
-0x00018B95	16	UI	Nelson Ngatadatu		
-0x00018BA6	15	UI	Osai Tsakafuchi		
-0x00018BE4	18	UI	Can't load planets		
-0x00018BF7	26	UI	This planet is off limits.		
-0x00018C12	24	UI	Leave this area at once!		
-0x00018C2B	31	UI	Do not force us to destroy you.		
-0x00018C4B	26	UI	Our powers are beyond you.		
-0x00018C66	29	UI	You are not welcome among us.		
-0x00018C84	20	UI	Die Earthling...Die.		
-0x00018C99	19	UI	You are irrelevant.		
-0x00018CC5	6	UI	dead%d		
-0x00018CCC	7	UI	mine%-d		
-0x00018CE4	11	UI	hostile%-1d		
-0x00018CF0	8	UI	nice%-1d		
-0x00018D04	29	UI	The alien base is hailing us.		
-0x00018D22	28	UI	%d Units of cargo Requested.		
-0x00018D3F	25	UI	%d Units of %s available.		
-0x00018E39	6	UI	%s.bch		
-0x00018E60	11	UI	hostile%-1d		
-0x00018E6C	8	UI	nice%-1d		
-0x00018E84	7	UI	no pics		
-0x00018E8C	27	UI	%d Units of cargo demanded.		
-0x00018EC5	31	UI	offer information for %d units.		
-0x00018F03	21	UI	I am willing to trade		
-0x00018F19	21	UI	away upto %d units %s		
-0x00018F46	5	UI	Sp:%d		
-0x00018F93	5	UI	Sz:%d		
-0x0001903B	6	UI	ship%d		
-0x00019062	16	UI	Can't load parts		
-0x0001907A	16	UI	Can't load parts		
-0x00019091	16	UI	Can't load parts		
-0x000190A9	16	UI	Can't load parts		
-0x000190CA	18	UI	Can't load planets		
-0x0001911C	5	UI	SZ:%d		
-0x00019122	5	UI	Ra:%d		
-0x00019128	5	UI	SP:%d		
-0x0001912E	5	UI	DA:%d		
-0x0001914C	13	UI	Launching Pad		
-0x00019164	13	UI	Crew Quarters		
-0x00019172	12	UI	Research Lab		
-0x0001917F	9	UI	Save Game		
-0x00019189	9	UI	Load Game		
-0x00019193	11	UI	Quit to Dos		
-0x000191AF	18	UI	Can't load sconpan		
-0x000191D1	20	UI	Commander Mason Polk		
-0x000191E6	20	UI	Commander Mason Polk		
-0x00019307	18	UI	Can't load sconpan		
-0x00019321	18	UI	Can't load sconpan		
-0x00019347	6	UI	moon%c		
-0x0001934E	18	UI	Can't load sconpan		
-0x00019364	36	UI	Thank you for playing Planet's Edge.		
-0x000198A5	18	UI	Can't load sconpan		
-0x000198B8	14	UI	Pick Character		
-0x000198C7	14	UI	Pick Character		
-0x00019951	13	UI	Hull: Size %d		
-0x0001995F	11	UI	Mass: %d/%d		
-0x0001996B	6	UI	ship%d		
-0x00019992	16	UI	Can't load parts		
-0x000199AA	16	UI	Can't load parts		
-0x000199C1	16	UI	Can't load parts		
-0x000199D9	16	UI	Can't load parts		
-0x000199F1	18	UI	Can't load sconpan		
-0x00019A32	17	UI	%d cargo removed.		
-0x00019A4D	20	UI	Repeat to scrap ship		
-0x00019A62	21	UI	Can't Scrap Only Ship		
-0x00019A81	6	UI	ship%c		
-0x00019A88	6	UI	ship%c		
-0x00019A98	6	UI	ship%c		
-0x00019ABD	12	UI	No %s mounts		
-0x00019AD8	11	UI	No more %ss		
-0x00019AF2	11	UI	No more %ss		
-0x00019AFE	16	UI	Not enough room.		
-0x00019B10	13	UI	Build Objects		
-0x00019B24	12	UI	Take Objects		
-0x00019B31	10	UI	Build Ship		
-0x00019B6E	18	UI	Can't load sconpan		
-0x00019C21	5	UI	% 2dK		
-0x00019C31	6	UI	%s(%d)		
-0x00019C3F	16	UI	Can't load parts		
-0x00019C57	16	UI	Can't load parts		
-0x00019C6E	16	UI	Can't load parts		
-0x00019C86	16	UI	Can't load parts		
-0x00019CA7	18	UI	Can't load sconpan		
-0x00019CBA	11	UI	Build Ships		
-0x00019CC6	11	UI	Build Items		
-0x00019CD2	14	UI	Ship Yard Full		
-0x00019CF1	18	UI	Can't load sconpan		
-0x00019D07	12	UI	% 3d On Hand		
-0x00019D14	11	UI	Build:% 3d.		
-0x00019D20	6	UI	Tl: %d		
-0x00019D27	8	UI	Hull: %d		
-0x00019D30	11	UI	Shots: %d%c		
-0x00019D4C	8	UI	%s: %d%c		
-0x00019D55	8	UI	Appl: %d		
-0x00019D5E	11	UI	Armor: %d%c		
-0x00019E29	34	UI	Please insert diskette containing 		
-0x00019E4E	9	UI	in drive 		
-0x00019ED3	12	UI	Cannot find 		
-0x00019F05	31	UI	Please enter new program spec: 		
-0x0001ABFF	15	UI	run-time error 		
+0x00014CF0	19	UI	Ship's Beam Weapons	船艦光束武器	
+0x00014D04	19	UI	Ship's Bolt Weapons	船艦螺栓武器	
+0x00014D18	19	UI	Ship's Proj Weapons	船艦投射武器	
+0x00014D4F	11	UI	Ship Repair	船艦維修	
+0x00014D5B	11	UI	Item Repair	道具修復	
+0x00014D71	13	UI	Light Weapons	輕兵器	
+0x00014D7F	13	UI	Heavy Weapons	重兵器	
+0x00014D8D	12	UI	Hand Weapons	近戰武器	
+0x00014D9A	9	UI	First Aid	急救	
+0x00014DD7	12	UI	Heavy Metals	重金屬	
+0x00014DE4	12	UI	Inert Gasses	惰性氣體	
+0x00014DF1	11	UI	Soft Metals	軟金屬	
+0x00014DFD	13	UI	Common Liquid	普通液體	
+0x00014E0B	13	UI	Hybrid Solids	複合固體	
+0x00014E19	12	UI	Alien Gasses	異星氣體	
+0x00014E26	12	UI	Alien Metals	異星金屬	
+0x00014E33	13	UI	Alien Isotope	異星同位素	
+0x00014E41	13	UI	Alien Crystal	異星水晶	
+0x00014E4F	13	UI	Alien Organic	異星有機	
+0x00014E5D	13	UI	Alien Liquids	異星液體	
+0x00014E6B	11	UI	Rare Elmnts	稀有元素	
+0x00014E77	10	UI	New Elmnts	新元素	
+0x00014E87	5	UI	 Rght	 右	
+0x00014E92	5	UI	 Left	 左	
+0x00014EA4	14	UI	Storage Yard A	貨場A	
+0x00014EB3	14	UI	Storage Yard B	貨場B	
+0x00014EC2	14	UI	Storage Yard C	貨場C	
+0x00014ED1	20	UI	Equipment Pickup Pad	裝備提取平台	
+0x00014EE6	14	UI	Final Assembly	最終組裝	
+0x00014EF5	18	UI	Remote Arm(Canada)	遠端機械臂	
+0x00014F08	11	UI	Larger Part	放大零件	
+0x00014F14	12	UI	Smaller Part	縮小零件	
+0x00014F21	14	UI	Next Part Type	下類零件	
+0x00014F30	18	UI	Previous Part Type	上類零件	
+0x00014F43	14	UI	Return to Base	返回基地	
+0x00014F52	10	UI	Place Part	放置零件	
+0x00014F5D	18	UI	Scrap Current Ship	拆解目前船艦	
+0x00014F70	10	UI	Mk1 Engine	一型引擎	
+0x00014F7B	10	UI	Mk2 Engine	二型引擎	
+0x00014F86	10	UI	Mk3 Engine	三型引擎	
+0x00014F91	10	UI	Mk4 Engine	四型引擎	
+0x00014F9C	10	UI	Mk5 Engine	五型引擎	
+0x00014FA7	10	UI	Mk6 Engine	六型引擎	
+0x00014FB2	10	UI	Mk7 Engine	七型引擎	
+0x00014FEF	10	UI	X-Ray Beam	X光束	
+0x00014FFA	10	UI	Mega Laser	巨型雷射	
+0x00015005	10	UI	Quark Beam	夸克光束	
+0x00015010	9	UI	Grav Bolt	重力栓	
+0x0001501A	10	UI	Magna Bolt	磁力栓	
+0x00015025	10	UI	Phase Bolt	相位栓	
+0x00015030	10	UI	Death Bolt	死亡栓	
+0x00015042	10	UI	Mass Drivr	質量砲	
+0x0001504D	8	UI	Rail Gun	軌道砲	
+0x00015056	8	UI	Rack Gun	架式砲	
+0x0001505F	7	UI	Orange 	橙色	
+0x00015079	8	UI	Leopard 	豹型	
+0x00015959	36	UI	Thank you for playing Planet's Edge.	感謝您遊玩天際寒星。	
+0x00015987	5	UI	%s.%s	%s.%s	
+0x00015995	5	UI	%s.%s	%s.%s	
+0x000159A3	5	UI	%s.%s	%s.%s	
+0x000159B1	5	UI	%s.%s	%s.%s	
+0x000159BF	5	UI	%s.%s	%s.%s	
+0x000159CD	5	UI	%s.%s	%s.%s	
+0x000159D3	14	UI	|/-\\No hash %s	|/-\\無雜湊 %s	
+0x000159E2	10	UI	No hash %s	無雜湊%s	
+0x00015A39	11	UI	%-19s: %-3d	%-19s: %-3d	
+0x00015AC6	14	UI	Can't load lcp	無法載入lcp	
+0x00015AD5	18	UI	Can't load tileset	無法載入圖磚集	
+0x00015AE8	18	UI	Can't load tileset	無法載入圖磚集	
+0x00015AFB	18	UI	Can't load tileset	無法載入圖磚集	
+0x00015B0E	18	UI	Can't load tileset	無法載入圖磚集	
+0x00015B21	18	UI	Can't load tileset	無法載入圖磚集	
+0x00015B44	10	UI	Cargo (%d)	貨物(%d)	
+0x00015BDC	12	UI	Top Speed:%d	極速  :%d	
+0x00015BE9	12	UI	Accel    :%d	加速  :%d	
+0x00015BF6	12	UI	Turn Mode:%d	迴轉  :%d	
+0x00015C03	15	UI	Nav Comp :%d-%d	導航 :%d-%d	
+0x00015C13	15	UI	Tar Comp :%d-%d	瞄準 :%d-%d	
+0x00015C23	12	UI	%-2d %10s %c	%-2d %10s %c	
+0x00015C30	6	UI	%-2d c	%-2d c	
+0x00015C40	5	UI	%-15s	%-15s	
+0x00015C46	6	UI	ts:%1d	ts:%1d	
+0x00015C4D	6	UI	tm:%1d	tm:%1d	
+0x00015C72	7	UI	No Ship	無船艦	
+0x00015C7A	11	UI	Pirate Ship	海盜船	
+0x00015C86	11	UI	Heavy Scout	重型偵察	
+0x00015C92	13	UI	Light Cruiser	輕巡洋艦	
+0x00015CA0	11	UI	War Cruiser	戰鬥巡洋	
+0x00015CAC	10	UI	Laser Boat	雷射艇	
+0x00015CB7	15	UI	Assault Cruiser	突擊巡洋艦	
+0x00015CC7	15	UI	Small Frieghter	小型貨船	
+0x00015CD7	15	UI	Large Freighter	大型貨船	
+0x00015CF0	15	UI	Armed Transport	武裝運輸艦	
+0x00015D00	18	UI	Priority Freighter	優先貨運船	
+0x00015D13	18	UI	Military Freighter	軍用貨運船	
+0x00015D26	11	UI	Indy Runner	獨立快船	
+0x00015D32	11	UI	Indy Runner	獨立快船	
+0x00015D3E	16	UI	Orbital Platform	軌道平台	
+0x00015D4F	16	UI	Defense Platform	防禦平台	
+0x00015D60	15	UI	Orbital Station	軌道站	
+0x00015D70	12	UI	Base Station	基地站	
+0x00015D7D	14	UI	Battle Station	戰鬥站	
+0x00015D8C	9	UI	Star Base	星基地	
+0x00015D96	16	UI	Orbital Fortress	軌道要塞	
+0x00015DA7	11	UI	Alien Thief	異星盜賊	
+0x00015DB3	11	UI	Light Rogue	輕型流寇	
+0x00015DBF	11	UI	Heavy Rogue	重型流寇	
+0x00015E03	8	UI	Gun Ship	砲艦	
+0x00015E15	12	UI	Laser Launch	雷射艇	
+0x00015E3C	14	UI	Battle Cruiser	戰鬥巡洋艦	
+0x00015E4B	8	UI	The Wind	旋風號	
+0x000164FC	11	UI	Ship Status	船艦狀態	
+0x00016508	10	UI	Dump Cargo	拋棄貨物	
+0x00016513	11	UI	Ship Status	船艦狀態	
+0x00016530	14	UI	Automatic Fire	自動射擊	
+0x0001653F	11	UI	Manual Fire	手動射擊	
+0x0001654B	13	UI	Switch Target	切換目標	
+0x00016567	17	UI	Engage Auto-Pilot	啟動自動駕駛	
+0x00016579	12	UI	View Starmap	查看星圖	
+0x00016593	7	UI	Go Slow	減速	
+0x0001659B	7	UI	Go Fast	加速	
+0x000165A3	14	UI	Manual Control	手動操控	
+0x000165B2	10	UI	Never mind	算了	
+0x000165BD	9	UI	Heal crew	治療船員	
+0x000165C7	11	UI	Scan target	掃描目標	
+0x000165DF	13	UI	Close Channel	關閉通訊	
+0x000165ED	12	UI	Pursuit Mode	追擊模式	
+0x000165FA	14	UI	Cancel Pursuit	取消追擊	
+0x00016609	9	UI	Pay Cargo	付貨	
+0x00016613	10	UI	Load Cargo	裝貨	
+0x0001661E	9	UI	Beam Down	傳送	
+0x00016628	10	UI	Touch Down	著陸	
+0x00016633	11	UI	Enter Orbit	進入軌道	
+0x0001663F	11	UI	Leave Orbit	離開軌道	
+0x0001664B	17	UI	Where to captain?	要去哪，艦長？	
+0x0001665D	16	UI	Destination sir?	目的地？長官	
+0x0001666E	22	UI	Head for which system?	前往哪個星系？	
+0x00016685	13	UI	Aye, captain?	遵命，艦長？	
+0x00016693	21	UI	Your command captain?	艦長有何命令？	
+0x000166A9	17	UI	What do you need?	您需要什麼？	
+0x000166BB	17	UI	Request, captain?	請示，艦長？	
+0x000166CD	29	UI	You wanted something captain?	艦長您要什麼嗎？	
+0x000166EB	25	UI	If I may be of service...	若有任何吩咐……	
+0x000167D2	25	UI	Our payment was rejected.	我方付款遭拒。	
+0x000167EC	35	UI	Cargo Transfered. They are leaving.	貨物已轉移，對方離去。	
+0x00016810	24	UI	%d units of %s received.	收到 %d 單位 %s	
+0x00016829	25	UI	Our payment was rejected.	我方付款遭拒。	
+0x00016843	20	UI	Transaction aborted.	交易中止。	
+0x00016858	25	UI	Our payment was rejected.	我方付款遭拒。	
+0x00016872	33	UI	Cargo Transfered. Access Granted.	貨物已轉，通行核可。	
+0x00016894	23	UI	Too close to disengage!	距離太近無法脫離！	
+0x000168AC	25	UI	Their ships are too fast!	對方船艦速度太快！	
+0x000168C6	20	UI	Breaking off combat.	脫離戰鬥中。	
+0x000168DB	31	UI	Repeat command to destroy ship.	再次下令以摧毀船艦。	
+0x000168FB	24	UI	Self-destruct Initiated.	已啟動自毀程序。	
+0x00016914	25	UI	Prepare for base assault!	準備突擊敵方基地！	
+0x0001692E	16	UI	Commence Attack!	開始攻擊！	
+0x0001693F	25	UI	Cargo detected in debris.	殘骸中偵測到貨物。	
+0x00016959	12	UI	Crew healed.	船員已治癒。	
+0x00016966	29	UI	The is nothing I can do here.	此處我無能為力。	
+0x00016984	37	UI	Please find something for me to scan!	請找個物件讓我掃描！	
+0x000169C2	28	UI	The base is jamming my scan.	基地干擾了我的掃描。	
+0x000169DF	39	UI	The planet has no acceptable locations.	此行星無合適著陸點。	
+0x00016A07	35	UI	The base is jamming our tele-trans.	基地干擾了我們的跳躍傳送。	
+0x00016A2C	21	UI	Setting course for %s	設定航線前往%s	
+0x00016A42	21	UI	Autopilot Disengaged.	自動駕駛已解除。	
+0x00016A69	16	UI	Pursuit mode %s.	追擊模式%s。	
+0x00016A7A	17	UI	Leaving obit sir.	離開軌道，長官。	
+0x00016A8C	29	UI	Orbital Trajectory locked in.	軌道航跡已鎖定。	
+0x00016AAA	21	UI	Pursuit mode enabled.	追擊模式已啟用。	
+0x00016AC0	22	UI	Evasion mode endabled.	閃避模式已啟用。	
+0x00016AD7	24	UI	Low speed mode endabled.	低速模式已啟用。	
+0x00016AF0	25	UI	High speed mode endabled.	高速模式已啟用。	
+0x00016B0A	23	UI	Manual control enabled.	手動操控已啟用。	
+0x00016BE9	13	UI	Assault Rifle	突擊步槍	
+0x00016C0D	12	UI	Machine Gun?	機關槍?	
+0x00016C72	13	UI	Assault Laser	突擊雷射	
+0x00016C96	13	UI	Electron Gun@	電子槍@	
+0x00016CDB	18	UI	Sub-Atomic Blaster	次原子轟擊槍	
+0x00016CFF	14	UI	Blue Quark Gun	藍夸克槍	
+0x00016D23	10	UI	Smart Guna	智慧槍	
+0x00016D43	16	UI	Grenade Launcher	榴彈發射器	
+0x00016D67	16	UI	Plasma Generator	電漿產生器	
+0x00016DC7	17	UI	Mono-Mol Disk Gun	單分子盤槍	
+0x00016DEB	13	UI	Defense Wave@	防禦波@	
+0x00016E52	13	UI	Cygnus Cannon	天鵝座砲	
+0x00016E76	12	UI	Chain Sword?	鏈鋸劍?	
+0x00016E98	15	UI	Rocket Launcher	火箭發射器	
+0x00016EBC	10	UI	Death Ray=	死光=	
+0x00016EDC	17	UI	Microtic Injector	微素注射器	
+0x00016F00	14	UI	Tac Nuke Rifle	戰術核步槍	
+0x00016F24	14	UI	Breach Missile	破障飛彈	
+0x00016FA6	17	UI	Thermite Launcher	鋁熱發射器	
+0x00016FCA	13	UI	Scroe Special	斯克羅特	
+0x00016FEE	13	UI	Battle Laserd	戰鬥雷射	
+0x00017011	13	UI	Sossee Dagger	索希匕首	
+0x00017035	12	UI	Laser Sword?	雷射劍?	
+0x000171D5	15	UI	Personal Shield	個人護盾	
+0x0001723A	15	UI	Admantine Chain	精鋼鎖甲	
+0x0001725E	12	UI	Teflar Suit?	鐵弗龍服?	
+0x000172BF	15	UI	Shielded reflec	護盾反射衣	
+0x000172E3	16	UI	Dreadnaught Suit	無畏戰衣	
+0x00017337	18	UI	Harmonic Resonator	諧振共振器	
+0x0001736E	13	UI	Silver Locket	銀製吊墜	
+0x000173A3	18	UI	Algiebian Crystals	阿吉比安水晶	
+0x000173C0	17	UI	Algiebian Quarter	阿吉比安幣	
+0x00017445	17	UI	Geal A'nai Amulet	蓋阿奈護符	
+0x0001747C	17	UI	Presidents Amulet	總統護符	
+0x00017499	13	UI	Security Card	安全卡	
+0x000174B6	13	UI	Algiebian Tal	阿吉比安塔	
+0x000174EF	16	UI	Industrial Badge	工業徽章	
+0x0001750C	16	UI	Sector Clearance	星區通行證	
+0x0001755B	14	UI	Bag O Diamonds	鑽石袋	
+0x000175DC	16	UI	ComNav Sq 2345-8	導航碼2345-8	
+0x00017612	19	UI	Logic Circuit Alpha	邏輯電路甲	
+0x0001762F	18	UI	Logic Circuit Beta	邏輯電路乙	
+0x0001764C	16	UI	Microchip Viewer	微晶片檢視器	
+0x00017669	19	UI	Gravitic Compressor	重力壓縮器	
+0x00017686	16	UI	Requisition Form	請領單	
+0x000176A3	15	UI	Authorized Form	授權書	
+0x000176C0	13	UI	Mini-Lab Pass	微型實驗證	
+0x000176F6	13	UI	Sonic Pincers	聲波鉗	
+0x00017756	15	UI	Algieban Invite	阿吉邀請函	
+0x00017773	13	UI	Talking Stick	話語杖	
+0x000177F1	15	UI	Queens Standard	女王軍旗	
+0x0001782A	15	UI	Attagi Com-Code	阿塔吉通碼	
+0x00017862	15	UI	Choassqa Card 1	喬亞斯卡1	
+0x0001787F	15	UI	Choassqa Card 2	喬亞斯卡2	
+0x0001789C	15	UI	Choassqa Card 3	喬亞斯卡3	
+0x000178B9	15	UI	Choassqa Card 4	喬亞斯卡4	
+0x000178D6	15	UI	Choassqa Card 5	喬亞斯卡5	
+0x0001790E	14	UI	Technicians ID	技師身分證	
+0x00017994	14	UI	Mass Converter	質量轉換器	
+0x000179E4	14	UI	10 Credit Card	十信用卡	
+0x00017A1D	16	UI	Shroud Admission	帷幕入場券	
+0x00017A53	13	UI	Particle Pack	粒子包	
+0x00017A77	14	UI	Neutrino Cache	微中子盒	
+0x00017A9B	11	UI	Power CellS	電力包	
+0x00017AFE	14	UI	Heavy Magazine	重型彈匣	
+0x00017B22	14	UI	First Aid Pack	急救包	
+0x00017B46	11	UI	Trauma Kitb	創傷包	
+0x00017B67	14	UI	Shroud of Kriq	克里克帷	
+0x00017B8B	12	UI	Ulfas Cloth?	烏法布?	
+0x00017BC2	13	UI	Sonrai Sticks	索瑞棒	
+0x00017BDF	17	UI	Gallery Admission	藝廊入場券	
+0x00017C30	13	UI	Desolate Book	荒蕪之書	
+0x00017C68	14	UI	Decorative Orb	裝飾球	
+0x00017CD8	17	UI	*Technical Plans*	*技術圖紙*	
+0x00017CF5	17	UI	Fire Extinguisher	滅火器	
+0x00017D4A	15	UI	Flight Recorder	飛行記錄器	
+0x00017D67	14	UI	Alien Medipack	異星醫療包	
+0x00017D83	14	UI	Mini Aid Packs	迷你急救包	
+0x00017DA7	11	UI	Alien Doll.	異星玩偶	
+0x00017E79	13	UI	Numistat deed	努米斯地契	
+0x00017E96	13	UI	Krupp Shields	克魯伯護盾	
+0x00017F5B	15	UI	The Last Stanza	末段詩節	
+0x00017FAE	15	UI	Sphere of Themi	賽米之球	
+0x00017FCB	14	UI	Golden Trident	金三叉戟	
+0x00017FE8	16	UI	Coral Instrument	珊瑚樂器	
+0x00018057	16	UI	Anti-Mat Grenade	反物質手榴	
+0x00018090	13	UI	Control Spike	控制尖刺	
+0x000180AD	16	UI	Control Crystals	控制水晶	
+0x000180CA	15	UI	P.c. Strandware	私人束器	
+0x00018139	13	UI	Bronze Sphere	青銅球	
+0x00018156	15	UI	Invisible Idiot	隱形蠢蛋	
+0x00018173	16	UI	Marathon Victory	馬拉松勝利	
+0x000181AB	15	UI	Virtual Reality	虛擬實境	
+0x000181E3	14	UI	Sphere o Rhyth	律動之球	
+0x00018200	13	UI	Sphere of Awa	覺知之球	
+0x0001821D	13	UI	Silver Sphere	銀色球	
+0x00018283	13	UI	Tschi Tai Pin	慈太針	
+0x000182A0	16	UI	sphere of Harmon	和諧之球	
+0x00018326	18	UI	Wierd Science Code	怪科學密碼	
+0x0001838A	15	UI	Official Papers	公文文件	
+0x0001843A	15	UI	Cevitic Balance	賽維天平	
+0x000184DB	14	UI	Don't build me	別建造我	
+0x00018792	18	UI	Can't load sconpan	無法載入sconpan	
+0x000187B9	6	UI	sp:%1d	sp:%1d	
+0x000187C6	6	UI	DA:%2d	DA:%2d	
+0x000187F3	7	UI	%s Game	%s 局	
+0x00018811	9	UI	Saving %s	儲存 %s	
+0x00018821	6	UI	%s.sav	%s.sav	
+0x00018832	10	UI	Loading %s	載入 %s	
+0x0001883D	6	UI	%s.sav	%s.sav	
+0x000189D7	17	UI	Can't load font!!	無法載入字型！	
+0x00018A9C	18	UI	Can't load sconpan	無法載入sconpan	
+0x00018AD8	18	UI	Can't load sconpan	無法載入sconpan	
+0x00018B3C	12	UI	William Dean	威廉迪恩	
+0x00018B49	14	UI	Katya Mershova	卡蒂亞默蕭	
+0x00018B58	16	UI	Nelson Ngatadatu	尼爾森雅塔達	
+0x00018B69	15	UI	Osai Tsakafuchi	大佐沙淵	
+0x00018B79	12	UI	William Dean	威廉迪恩	
+0x00018B86	14	UI	Katya Mershova	卡蒂亞默蕭	
+0x00018B95	16	UI	Nelson Ngatadatu	尼爾森雅塔達	
+0x00018BA6	15	UI	Osai Tsakafuchi	大佐沙淵	
+0x00018BE4	18	UI	Can't load planets	無法載入行星	
+0x00018BF7	26	UI	This planet is off limits.	此行星禁止進入。	
+0x00018C12	24	UI	Leave this area at once!	立即離開此區！	
+0x00018C2B	31	UI	Do not force us to destroy you.	別逼我們摧毀你們。	
+0x00018C4B	26	UI	Our powers are beyond you.	我們的力量遠超你們。	
+0x00018C66	29	UI	You are not welcome among us.	我們不歡迎你們。	
+0x00018C84	20	UI	Die Earthling...Die.	去死，地球人……	
+0x00018C99	19	UI	You are irrelevant.	你們無關緊要。	
+0x00018CC5	6	UI	dead%d	死%d	
+0x00018CCC	7	UI	mine%-d	雷%-d	
+0x00018CE4	11	UI	hostile%-1d	敵%-1d	
+0x00018CF0	8	UI	nice%-1d	友%-1d	
+0x00018D04	29	UI	The alien base is hailing us.	異星基地正呼叫我們。	
+0x00018D22	28	UI	%d Units of cargo Requested.	要求 %d 單位貨物。	
+0x00018D3F	25	UI	%d Units of %s available.	%d 單位 %s 可用	
+0x00018E39	6	UI	%s.bch	%s.bch	
+0x00018E60	11	UI	hostile%-1d	敵%-1d	
+0x00018E6C	8	UI	nice%-1d	友%-1d	
+0x00018E84	7	UI	no pics	無圖	
+0x00018E8C	27	UI	%d Units of cargo demanded.	索求 %d 單位貨物。	
+0x00018EC5	31	UI	offer information for %d units.	出售情報換 %d 單位。	
+0x00018F03	21	UI	I am willing to trade	我願意交易	
+0x00018F19	21	UI	away upto %d units %s	最多 %d 單位 %s	
+0x00018F46	5	UI	Sp:%d	速:%d	
+0x00018F93	5	UI	Sz:%d	尺:%d	
+0x0001903B	6	UI	ship%d	船%d	
+0x00019062	16	UI	Can't load parts	無法載入零件	
+0x0001907A	16	UI	Can't load parts	無法載入零件	
+0x00019091	16	UI	Can't load parts	無法載入零件	
+0x000190A9	16	UI	Can't load parts	無法載入零件	
+0x000190CA	18	UI	Can't load planets	無法載入行星	
+0x0001911C	5	UI	SZ:%d	尺:%d	
+0x00019122	5	UI	Ra:%d	程:%d	
+0x00019128	5	UI	SP:%d	速:%d	
+0x0001912E	5	UI	DA:%d	傷:%d	
+0x0001914C	13	UI	Launching Pad	發射平台	
+0x00019164	13	UI	Crew Quarters	船員艙	
+0x00019172	12	UI	Research Lab	研究室	
+0x0001917F	9	UI	Save Game	儲存遊戲	
+0x00019189	9	UI	Load Game	載入遊戲	
+0x00019193	11	UI	Quit to Dos	離開到Dos	
+0x000191AF	18	UI	Can't load sconpan	無法載入sconpan	
+0x000191D1	20	UI	Commander Mason Polk	梅森波克司令	
+0x000191E6	20	UI	Commander Mason Polk	梅森波克司令	
+0x00019307	18	UI	Can't load sconpan	無法載入sconpan	
+0x00019321	18	UI	Can't load sconpan	無法載入sconpan	
+0x00019347	6	UI	moon%c	月%c	
+0x0001934E	18	UI	Can't load sconpan	無法載入sconpan	
+0x00019364	36	UI	Thank you for playing Planet's Edge.	感謝您遊玩天際寒星。	
+0x000198A5	18	UI	Can't load sconpan	無法載入sconpan	
+0x000198B8	14	UI	Pick Character	選擇角色	
+0x000198C7	14	UI	Pick Character	選擇角色	
+0x00019951	13	UI	Hull: Size %d	船體尺寸%d	
+0x0001995F	11	UI	Mass: %d/%d	質:%d/%d	
+0x0001996B	6	UI	ship%d	船%d	
+0x00019992	16	UI	Can't load parts	無法載入零件	
+0x000199AA	16	UI	Can't load parts	無法載入零件	
+0x000199C1	16	UI	Can't load parts	無法載入零件	
+0x000199D9	16	UI	Can't load parts	無法載入零件	
+0x000199F1	18	UI	Can't load sconpan	無法載入sconpan	
+0x00019A32	17	UI	%d cargo removed.	移除 %d 貨物。	
+0x00019A4D	20	UI	Repeat to scrap ship	再次確認以拆船	
+0x00019A62	21	UI	Can't Scrap Only Ship	最後船艦不可拆	
+0x00019A81	6	UI	ship%c	船%c	
+0x00019A88	6	UI	ship%c	船%c	
+0x00019A98	6	UI	ship%c	船%c	
+0x00019ABD	12	UI	No %s mounts	無 %s 掛架	
+0x00019AD8	11	UI	No more %ss	已無 %ss	
+0x00019AF2	11	UI	No more %ss	已無 %ss	
+0x00019AFE	16	UI	Not enough room.	空間不足。	
+0x00019B10	13	UI	Build Objects	建造物件	
+0x00019B24	12	UI	Take Objects	取得物件	
+0x00019B31	10	UI	Build Ship	建造船艦	
+0x00019B6E	18	UI	Can't load sconpan	無法載入sconpan	
+0x00019C21	5	UI	% 2dK	% 2dK	
+0x00019C31	6	UI	%s(%d)	%s(%d)	
+0x00019C3F	16	UI	Can't load parts	無法載入零件	
+0x00019C57	16	UI	Can't load parts	無法載入零件	
+0x00019C6E	16	UI	Can't load parts	無法載入零件	
+0x00019C86	16	UI	Can't load parts	無法載入零件	
+0x00019CA7	18	UI	Can't load sconpan	無法載入sconpan	
+0x00019CBA	11	UI	Build Ships	建造船艦	
+0x00019CC6	11	UI	Build Items	建造物品	
+0x00019CD2	14	UI	Ship Yard Full	船塢已滿	
+0x00019CF1	18	UI	Can't load sconpan	無法載入sconpan	
+0x00019D07	12	UI	% 3d On Hand	持有% 3d	
+0x00019D14	11	UI	Build:% 3d.	造:% 3d.	
+0x00019D20	6	UI	Tl: %d	級:%d	
+0x00019D27	8	UI	Hull: %d	體:%d	
+0x00019D30	11	UI	Shots: %d%c	彈:%d%c	
+0x00019D4C	8	UI	%s: %d%c	%s:%d%c	
+0x00019D55	8	UI	Appl: %d	用:%d	
+0x00019D5E	11	UI	Armor: %d%c	甲:%d%c	
+0x00019E29	34	UI	Please insert diskette containing 	請插入內含磁片	
+0x00019E4E	9	UI	in drive 	於磁機	
+0x00019ED3	12	UI	Cannot find 	找不到	
+0x00019F05	31	UI	Please enter new program spec: 	請輸入新程式規格:	
+0x0001ABFF	15	UI	run-time error 	執行錯誤	
 0x00014C61	6	DEBUG	spacet		
 0x00014CC1	9	DEBUG	Commander		
 0x00014CCB	6	DEBUG	Combat		
