@@ -1,4 +1,12 @@
-"""Normalize translation term drift across all TSV files.
+"""Normalize translation term drift across all TSV files."""
+import sys, io
+# Force stdout/stderr to UTF-8 so we can print non-cp950 chars on Windows
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+
+_DOC = """Normalize translation term drift across all TSV files.
 
 After parallel translators each fill their own TSV, this tool enforces
 the glossary terms by doing search-replace across all translation_zh
@@ -18,7 +26,7 @@ Also runs basic QA:
   - format specifier preservation (%s %d %u)
   - cp950 encodability
 """
-import os, sys, re, csv
+import os, re, csv
 
 ROOT = r"D:\03_game\plant_edge_cht"
 GLOSSARY = os.path.join(ROOT, "translations", "glossary.md")
@@ -145,16 +153,16 @@ def main():
         rel = os.path.relpath(path, ROOT)
         print(f"  {rel}: {s['substitutions']} substitutions")
         if s['byte_violations']:
-            print(f"    ⚠️  byte violations: {len(s['byte_violations'])}")
-            for i, en, zh, en_len, zh_len in s['byte_violations'][:3]:
+            print(f"    [WARN] byte violations: {len(s['byte_violations'])}")
+            for i, en, zh, en_len, zh_len in s['byte_violations'][:5]:
                 print(f"       row {i}: en={en_len}B zh={zh_len}B | en={en!r} zh={zh!r}")
         if s['format_violations']:
-            print(f"    ⚠️  format violations: {len(s['format_violations'])}")
-            for i, en, zh, en_f, zh_f in s['format_violations'][:3]:
-                print(f"       row {i}: en={en_f} zh={zh_f} | {en!r} → {zh!r}")
+            print(f"    [WARN] format violations: {len(s['format_violations'])}")
+            for i, en, zh, en_f, zh_f in s['format_violations'][:5]:
+                print(f"       row {i}: en={en_f} zh={zh_f} | {en!r} -> {zh!r}")
         if s['cp950_violations']:
-            print(f"    ❌  cp950 violations: {len(s['cp950_violations'])}")
-            for i, en, zh, err in s['cp950_violations'][:3]:
+            print(f"    [FAIL] cp950 violations: {len(s['cp950_violations'])}")
+            for i, en, zh, err in s['cp950_violations'][:5]:
                 print(f"       row {i}: {err} | en={en!r} zh={zh!r}")
 
 if __name__ == '__main__':

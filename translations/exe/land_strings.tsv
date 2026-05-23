@@ -1,216 +1,216 @@
 file_offset	len	kind	original_en	translation_zh	notes
-0x00012343	15	UI	Can't load ship		
-0x00012353	18	UI	I'm the leader now		
-0x00012366	14	UI	He's dead jim!		
-0x00012375	28	UI	Repeat command to quit game.		
-0x00012392	36	UI	Thank you for playing Planet's Edge.		
-0x000123B7	36	UI	Repeat command to confirm Tele-trans		
-0x000123DC	28	UI	Tele-Trans is disrupted here		
-0x000123F9	21	UI	Tele-trans activated.		
-0x00012414	12	UI	I took a%s%s		
-0x00012421	21	UI	I can't carry anymore		
-0x00012441	15	UI	I have no items		
-0x0001245C	14	UI	Now wearing %s		
-0x00012476	13	UI	%s in %s hand		
-0x00012484	27	UI	I can't Wear or Wield that!		
-0x000124A0	11	UI	Never mind.		
-0x000124AC	15	UI	I have no items		
-0x000124BC	9	UI	Drop Item		
-0x000124C6	10	UI	%s dropped		
-0x000124D1	21	UI	There is no room here		
-0x000124E7	15	UI	I have no items		
-0x000124F7	19	UI	Examine which item?		
-0x0001250B	12	UI	Examine Item		
-0x00012518	15	UI	I have no items		
-0x00012528	15	UI	Use which item?		
-0x00012538	8	UI	Use Item		
-0x00012541	33	UI	Maybe if I was on the right side!		
-0x00012563	15	UI	I have no items		
-0x00012573	22	UI	No save during combat.		
-0x0001258A	24	UI	This corpse is worthless		
-0x000125A3	13	UI	Search corpse		
-0x000125B1	21	UI	I can't carry anymore		
-0x000125C7	35	UI	Perhaps if I was on the right side.		
-0x000125F0	10	UI	It's a%s%s		
-0x00012600	10	UI	It's a%s%s		
-0x0001260B	30	UI	I cannot move any further now.		
-0x0001262A	30	UI	I cannot move any further now.		
-0x000128FC	19	UI	Ship's Beam Weapons		
-0x00012910	19	UI	Ship's Bolt Weapons		
-0x00012924	19	UI	Ship's Proj Weapons		
-0x0001295B	11	UI	Ship Repair		
-0x00012967	11	UI	Item Repair		
-0x0001297D	13	UI	Light Weapons		
-0x0001298B	13	UI	Heavy Weapons		
-0x00012999	12	UI	Hand Weapons		
-0x000129A6	9	UI	First Aid		
-0x00012B19	37	UI	Thank you for playing Planet's Edge.$		
-0x00012C0A	13	UI	Assault Rifle		
-0x00012C2E	12	UI	Machine Gun?		
-0x00012C93	13	UI	Assault Laser		
-0x00012CB7	13	UI	Electron Gun@		
-0x00012CFC	18	UI	Sub-Atomic Blaster		
-0x00012D20	14	UI	Blue Quark Gun		
-0x00012D44	10	UI	Smart Guna		
-0x00012D64	16	UI	Grenade Launcher		
-0x00012D88	16	UI	Plasma Generator		
-0x00012DE8	17	UI	Mono-Mol Disk Gun		
-0x00012E0C	13	UI	Defense Wave@		
-0x00012E73	13	UI	Cygnus Cannon		
-0x00012E97	12	UI	Chain Sword?		
-0x00012EB9	15	UI	Rocket Launcher		
-0x00012EDD	10	UI	Death Ray=		
-0x00012EFD	17	UI	Microtic Injector		
-0x00012F21	14	UI	Tac Nuke Rifle		
-0x00012F45	14	UI	Breach Missile		
-0x00012FC7	17	UI	Thermite Launcher		
-0x00012FEB	13	UI	Scroe Special		
-0x0001300F	13	UI	Battle Laserd		
-0x00013032	13	UI	Sossee Dagger		
-0x00013056	12	UI	Laser Sword?		
-0x000131F6	15	UI	Personal Shield		
-0x0001325B	15	UI	Admantine Chain		
-0x0001327F	12	UI	Teflar Suit?		
-0x000132E0	15	UI	Shielded reflec		
-0x00013304	16	UI	Dreadnaught Suit		
-0x00013358	18	UI	Harmonic Resonator		
-0x0001338F	13	UI	Silver Locket		
-0x000133C4	18	UI	Algiebian Crystals		
-0x000133E1	17	UI	Algiebian Quarter		
-0x00013466	17	UI	Geal A'nai Amulet		
-0x0001349D	17	UI	Presidents Amulet		
-0x000134BA	13	UI	Security Card		
-0x000134D7	13	UI	Algiebian Tal		
-0x00013510	16	UI	Industrial Badge		
-0x0001352D	16	UI	Sector Clearance		
-0x0001357C	14	UI	Bag O Diamonds		
-0x000135FD	16	UI	ComNav Sq 2345-8		
-0x00013633	19	UI	Logic Circuit Alpha		
-0x00013650	18	UI	Logic Circuit Beta		
-0x0001366D	16	UI	Microchip Viewer		
-0x0001368A	19	UI	Gravitic Compressor		
-0x000136A7	16	UI	Requisition Form		
-0x000136C4	15	UI	Authorized Form		
-0x000136E1	13	UI	Mini-Lab Pass		
-0x00013717	13	UI	Sonic Pincers		
-0x00013777	15	UI	Algieban Invite		
-0x00013794	13	UI	Talking Stick		
-0x00013812	15	UI	Queens Standard		
-0x0001384B	15	UI	Attagi Com-Code		
-0x00013883	15	UI	Choassqa Card 1		
-0x000138A0	15	UI	Choassqa Card 2		
-0x000138BD	15	UI	Choassqa Card 3		
-0x000138DA	15	UI	Choassqa Card 4		
-0x000138F7	15	UI	Choassqa Card 5		
-0x0001392F	14	UI	Technicians ID		
-0x000139B5	14	UI	Mass Converter		
-0x00013A05	14	UI	10 Credit Card		
-0x00013A3E	16	UI	Shroud Admission		
-0x00013A74	13	UI	Particle Pack		
-0x00013A98	14	UI	Neutrino Cache		
-0x00013ABC	11	UI	Power CellS		
-0x00013B1F	14	UI	Heavy Magazine		
-0x00013B43	14	UI	First Aid Pack		
-0x00013B67	11	UI	Trauma Kitb		
-0x00013B88	14	UI	Shroud of Kriq		
-0x00013BAC	12	UI	Ulfas Cloth?		
-0x00013BE3	13	UI	Sonrai Sticks		
-0x00013C00	17	UI	Gallery Admission		
-0x00013C51	13	UI	Desolate Book		
-0x00013C89	14	UI	Decorative Orb		
-0x00013CF9	17	UI	*Technical Plans*		
-0x00013D16	17	UI	Fire Extinguisher		
-0x00013D6B	15	UI	Flight Recorder		
-0x00013D88	14	UI	Alien Medipack		
-0x00013DA4	14	UI	Mini Aid Packs		
-0x00013DC8	11	UI	Alien Doll.		
-0x00013E9A	13	UI	Numistat deed		
-0x00013EB7	13	UI	Krupp Shields		
-0x00013F7C	15	UI	The Last Stanza		
-0x00013FCF	15	UI	Sphere of Themi		
-0x00013FEC	14	UI	Golden Trident		
-0x00014009	16	UI	Coral Instrument		
-0x00014078	16	UI	Anti-Mat Grenade		
-0x000140B1	13	UI	Control Spike		
-0x000140CE	16	UI	Control Crystals		
-0x000140EB	15	UI	P.c. Strandware		
-0x0001415A	13	UI	Bronze Sphere		
-0x00014177	15	UI	Invisible Idiot		
-0x00014194	16	UI	Marathon Victory		
-0x000141CC	15	UI	Virtual Reality		
-0x00014204	14	UI	Sphere o Rhyth		
-0x00014221	13	UI	Sphere of Awa		
-0x0001423E	13	UI	Silver Sphere		
-0x000142A4	13	UI	Tschi Tai Pin		
-0x000142C1	16	UI	sphere of Harmon		
-0x00014347	18	UI	Wierd Science Code		
-0x000143AB	15	UI	Official Papers		
-0x0001445B	15	UI	Cevitic Balance		
-0x000144FC	14	UI	Don't build me		
-0x000147A2	13	UI	Not a chance!		
-0x000147B9	16	UI	Which direction?		
-0x0001482B	16	UI	I Have no weapon		
-0x0001483C	19	UI	My weapon is empty.		
-0x00014850	35	UI	I will not shoot myself on purpose!		
-0x00014B9B	14	UI	|/-\\No hash %s		
-0x00014BAA	10	UI	No hash %s		
-0x00014C01	11	UI	%-19s: %-3d		
-0x00014C37	30	UI	They aren't wearing any armor!		
-0x00014C56	29	UI	I couldn't make it any better		
-0x00014C74	20	UI	Presto! Good as new!		
-0x00014C89	37	UI	I'm a physician not a miracle worker!		
-0x00014CAF	38	UI	I don't think that would do much good.		
-0x00014CD6	38	UI	I'm afraid I'd do more harm then good.		
-0x00014CFD	36	UI	The Wounds were severe but operable.		
-0x00014D22	37	UI	I'm not a doctor, but that should do.		
-0x00014D48	26	UI	It's A miracle your alive!		
-0x00014D63	42	UI	Recovery will require more than first aid!		
-0x00014D8E	28	UI	That should patch things up.		
-0x00014DAE	5	UI	%s.ts		
-0x00014DB4	18	UI	 Error opening %s.		
-0x00014DC7	11	UI	Shots: %d%c		
-0x00014DE3	8	UI	%s: %d%c		
-0x00014DEC	16	UI	Applications: %d		
-0x00014DFD	11	UI	Armor: %d%c		
-0x00014E1C	5	UI	%8.8s		
-0x00014E25	31	UI	[Press <Y>es(LMB) or <N>o(RMB)]		
-0x00014E45	29	UI	 [Press ENTER or Click Mouse]		
-0x00014E63	6	UI	%s.bch		
-0x00014E6D	6	UI	%s.bch		
-0x00014E74	6	UI	%d.bch		
-0x00014FEC	17	UI	Can't load font!!		
-0x00015075	14	UI	Can't load lcp		
-0x00015084	18	UI	Can't load tileset		
-0x00015097	18	UI	Can't load tileset		
-0x000150AA	18	UI	Can't load tileset		
-0x000150BD	18	UI	Can't load tileset		
-0x000150D0	18	UI	Can't load tileset		
-0x000150EB	5	UI	%s.%s		
-0x000150F9	5	UI	%s.%s		
-0x00015107	5	UI	%s.%s		
-0x00015115	5	UI	%s.%s		
-0x00015123	5	UI	%s.%s		
-0x00015131	5	UI	%s.%s		
-0x00015168	7	UI	%s Game		
-0x00015186	9	UI	Saving %s		
-0x00015196	6	UI	%s.sav		
-0x000151A7	10	UI	Loading %s		
-0x000151B2	6	UI	%s.sav		
-0x00015255	6	UI	%s.map		
-0x0001525C	7	UI	No hash		
-0x00015276	29	UI	Fatal Error opening work file		
-0x00015294	24	UI	Error Writing work file.		
-0x000152AD	24	UI	Error Writing work file.		
-0x000152C6	24	UI	Error Writing work file.		
-0x000152F4	6	UI	%s.map		
-0x000152FE	6	UI	%s.map		
-0x00015308	18	UI	 Error opening %s.		
-0x00015320	16	UI	Map loaded as %s		
-0x000154DC	34	UI	Please insert diskette containing 		
-0x00015501	9	UI	in drive 		
-0x00015586	12	UI	Cannot find 		
-0x000155B8	31	UI	Please enter new program spec: 		
-0x00015C14	15	UI	run-time error 		
+0x00012343	15	UI	Can't load ship	無法載入船艦
+0x00012353	18	UI	I'm the leader now	我現在是隊長
+0x00012366	14	UI	He's dead jim!	他死了，吉姆！	Star Trek 哏
+0x00012375	28	UI	Repeat command to quit game.	再次確認以離開遊戲。
+0x00012392	36	UI	Thank you for playing Planet's Edge.	感謝您遊玩天際寒星。
+0x000123B7	36	UI	Repeat command to confirm Tele-trans	再次確認以跳躍傳送
+0x000123DC	28	UI	Tele-Trans is disrupted here	此處跳躍傳送受阻
+0x000123F9	21	UI	Tele-trans activated.	跳躍傳送啟動。
+0x00012414	12	UI	I took a%s%s	我拿了%s%s
+0x00012421	21	UI	I can't carry anymore	我無法再攜帶更多
+0x00012441	15	UI	I have no items	我沒有物品
+0x0001245C	14	UI	Now wearing %s	現在穿著 %s
+0x00012476	13	UI	%s in %s hand	%s 在 %s 手
+0x00012484	27	UI	I can't Wear or Wield that!	無法穿戴或持有！
+0x000124A0	11	UI	Never mind.	算了。
+0x000124AC	15	UI	I have no items	我沒有物品
+0x000124BC	9	UI	Drop Item	丟棄物品
+0x000124C6	10	UI	%s dropped	已丟棄 %s
+0x000124D1	21	UI	There is no room here	這裡沒有空間
+0x000124E7	15	UI	I have no items	我沒有物品
+0x000124F7	19	UI	Examine which item?	檢查哪個物品？
+0x0001250B	12	UI	Examine Item	檢查物品
+0x00012518	15	UI	I have no items	我沒有物品
+0x00012528	15	UI	Use which item?	使用哪個物品？
+0x00012538	8	UI	Use Item	使用物品
+0x00012541	33	UI	Maybe if I was on the right side!	站對位置才行！
+0x00012563	15	UI	I have no items	我沒有物品
+0x00012573	22	UI	No save during combat.	戰鬥中無法存檔。
+0x0001258A	24	UI	This corpse is worthless	屍體無價值
+0x000125A3	13	UI	Search corpse	搜索屍體
+0x000125B1	21	UI	I can't carry anymore	我無法再攜帶更多
+0x000125C7	35	UI	Perhaps if I was on the right side.	也許要站對位置。
+0x000125F0	10	UI	It's a%s%s	是一個%s%s
+0x00012600	10	UI	It's a%s%s	是一個%s%s
+0x0001260B	30	UI	I cannot move any further now.	現在無法繼續移動。
+0x0001262A	30	UI	I cannot move any further now.	現在無法繼續移動。
+0x000128FC	19	UI	Ship's Beam Weapons	船艦光束武器
+0x00012910	19	UI	Ship's Bolt Weapons	船艦螺栓武器
+0x00012924	19	UI	Ship's Proj Weapons	船艦投射武器
+0x0001295B	11	UI	Ship Repair	船艦維修
+0x00012967	11	UI	Item Repair	道具修復
+0x0001297D	13	UI	Light Weapons	輕兵器
+0x0001298B	13	UI	Heavy Weapons	重兵器
+0x00012999	12	UI	Hand Weapons	近戰武器
+0x000129A6	9	UI	First Aid	急救
+0x00012B19	37	UI	Thank you for playing Planet's Edge.$	感謝您遊玩天際寒星。$	保留尾端 $
+0x00012C0A	13	UI	Assault Rifle	突擊步槍
+0x00012C2E	12	UI	Machine Gun?	機關槍?	尾端 ? 保留
+0x00012C93	13	UI	Assault Laser	突擊雷射
+0x00012CB7	13	UI	Electron Gun@	電子槍@	尾端 @ 保留
+0x00012CFC	18	UI	Sub-Atomic Blaster	次原子爆能槍
+0x00012D20	14	UI	Blue Quark Gun	藍夸克槍
+0x00012D44	10	UI	Smart Guna	智慧槍a	尾端 a 保留
+0x00012D64	16	UI	Grenade Launcher	榴彈發射器
+0x00012D88	16	UI	Plasma Generator	電漿產生器
+0x00012DE8	17	UI	Mono-Mol Disk Gun	單分子飛盤槍
+0x00012E0C	13	UI	Defense Wave@	防禦波@	尾端 @ 保留
+0x00012E73	13	UI	Cygnus Cannon	天鵝座炮
+0x00012E97	12	UI	Chain Sword?	鏈鋸劍?	尾端 ? 保留
+0x00012EB9	15	UI	Rocket Launcher	火箭發射器
+0x00012EDD	10	UI	Death Ray=	死亡光線=	尾端 = 保留
+0x00012EFD	17	UI	Microtic Injector	微噬注射器
+0x00012F21	14	UI	Tac Nuke Rifle	戰術核步槍
+0x00012F45	14	UI	Breach Missile	破甲飛彈
+0x00012FC7	17	UI	Thermite Launcher	鋁熱劑發射器
+0x00012FEB	13	UI	Scroe Special	斯克羅特製
+0x0001300F	13	UI	Battle Laserd	戰鬥雷射d	尾端 d 保留
+0x00013032	13	UI	Sossee Dagger	索西匕首
+0x00013056	12	UI	Laser Sword?	雷射劍?	尾端 ? 保留
+0x000131F6	15	UI	Personal Shield	個人護盾
+0x0001325B	15	UI	Admantine Chain	精金鎖鏈
+0x0001327F	12	UI	Teflar Suit?	鐵弗龍裝?	尾端 ? 保留
+0x000132E0	15	UI	Shielded reflec	護盾反射衣
+0x00013304	16	UI	Dreadnaught Suit	無畏戰甲
+0x00013358	18	UI	Harmonic Resonator	諧振共振器
+0x0001338F	13	UI	Silver Locket	銀製吊墜
+0x000133C4	18	UI	Algiebian Crystals	阿吉比安水晶
+0x000133E1	17	UI	Algiebian Quarter	阿吉比安幣
+0x00013466	17	UI	Geal A'nai Amulet	蓋亞奈護符	新詞: Geal A'nai=蓋亞奈
+0x0001349D	17	UI	Presidents Amulet	總統護符
+0x000134BA	13	UI	Security Card	安全卡
+0x000134D7	13	UI	Algiebian Tal	阿吉比安塔
+0x00013510	16	UI	Industrial Badge	工業徽章
+0x0001352D	16	UI	Sector Clearance	星區通行證
+0x0001357C	14	UI	Bag O Diamonds	鑽石袋
+0x000135FD	16	UI	ComNav Sq 2345-8	導航碼2345-8
+0x00013633	19	UI	Logic Circuit Alpha	邏輯電路 Alpha
+0x00013650	18	UI	Logic Circuit Beta	邏輯電路 Beta
+0x0001366D	16	UI	Microchip Viewer	微晶片檢視器
+0x0001368A	19	UI	Gravitic Compressor	重力壓縮器
+0x000136A7	16	UI	Requisition Form	請領單
+0x000136C4	15	UI	Authorized Form	授權單
+0x000136E1	13	UI	Mini-Lab Pass	迷你實驗證
+0x00013717	13	UI	Sonic Pincers	音波鉗
+0x00013777	15	UI	Algieban Invite	阿吉比安邀請
+0x00013794	13	UI	Talking Stick	話語杖
+0x00013812	15	UI	Queens Standard	王后旗幟
+0x0001384B	15	UI	Attagi Com-Code	阿塔吉通訊碼	新詞: Attagi=阿塔吉
+0x00013883	15	UI	Choassqa Card 1	喬阿斯卡 1	新詞: Choassqa=喬阿斯
+0x000138A0	15	UI	Choassqa Card 2	喬阿斯卡 2
+0x000138BD	15	UI	Choassqa Card 3	喬阿斯卡 3
+0x000138DA	15	UI	Choassqa Card 4	喬阿斯卡 4
+0x000138F7	15	UI	Choassqa Card 5	喬阿斯卡 5
+0x0001392F	14	UI	Technicians ID	技師身分證
+0x000139B5	14	UI	Mass Converter	質量轉換器
+0x00013A05	14	UI	10 Credit Card	10 點信用卡
+0x00013A3E	16	UI	Shroud Admission	裹屍布入場券
+0x00013A74	13	UI	Particle Pack	粒子彈包
+0x00013A98	14	UI	Neutrino Cache	微中子彈匣
+0x00013ABC	11	UI	Power CellS	能量電池S	尾端 S 保留
+0x00013B1F	14	UI	Heavy Magazine	重型彈匣
+0x00013B43	14	UI	First Aid Pack	急救包
+0x00013B67	11	UI	Trauma Kitb	外傷組b	尾端 b 保留
+0x00013B88	14	UI	Shroud of Kriq	克里克裹屍布
+0x00013BAC	12	UI	Ulfas Cloth?	烏法斯布?
+0x00013BE3	13	UI	Sonrai Sticks	桑萊木棒	新詞: Sonrai=桑萊
+0x00013C00	17	UI	Gallery Admission	藝廊入場券
+0x00013C51	13	UI	Desolate Book	荒蕪之書
+0x00013C89	14	UI	Decorative Orb	裝飾寶珠
+0x00013CF9	17	UI	*Technical Plans*	*技術圖紙*
+0x00013D16	17	UI	Fire Extinguisher	滅火器
+0x00013D6B	15	UI	Flight Recorder	飛行紀錄器
+0x00013D88	14	UI	Alien Medipack	異星醫療包
+0x00013DA4	14	UI	Mini Aid Packs	迷你急救包
+0x00013DC8	11	UI	Alien Doll.	異星玩偶。
+0x00013E9A	13	UI	Numistat deed	努米斯塔證書	新詞: Numistat=努米斯塔
+0x00013EB7	13	UI	Krupp Shields	克魯伯護盾
+0x00013F7C	15	UI	The Last Stanza	最終詩節
+0x00013FCF	15	UI	Sphere of Themi	忒彌斯之球
+0x00013FEC	14	UI	Golden Trident	黃金三叉戟
+0x00014009	16	UI	Coral Instrument	珊瑚樂器
+0x00014078	16	UI	Anti-Mat Grenade	反物質手榴彈
+0x000140B1	13	UI	Control Spike	控制尖刺
+0x000140CE	16	UI	Control Crystals	控制水晶
+0x000140EB	15	UI	P.c. Strandware	P.c. 線纜	縮寫保留
+0x0001415A	13	UI	Bronze Sphere	青銅之球
+0x00014177	15	UI	Invisible Idiot	隱形蠢蛋
+0x00014194	16	UI	Marathon Victory	馬拉松勝利
+0x000141CC	15	UI	Virtual Reality	虛擬實境
+0x00014204	14	UI	Sphere o Rhyth	節律之球
+0x00014221	13	UI	Sphere of Awa	阿瓦之球
+0x0001423E	13	UI	Silver Sphere	白銀之球
+0x000142A4	13	UI	Tschi Tai Pin	池泰別針	新詞: Tschi Tai=池泰
+0x000142C1	16	UI	sphere of Harmon	和諧之球
+0x00014347	18	UI	Wierd Science Code	怪科學密碼
+0x000143AB	15	UI	Official Papers	官方文件
+0x0001445B	15	UI	Cevitic Balance	克維提天秤	新詞: Cevitic=克維提
+0x000144FC	14	UI	Don't build me	別建造我
+0x000147A2	13	UI	Not a chance!	門都沒有！
+0x000147B9	16	UI	Which direction?	往哪個方向？
+0x0001482B	16	UI	I Have no weapon	我沒有武器
+0x0001483C	19	UI	My weapon is empty.	我的武器沒彈了。
+0x00014850	35	UI	I will not shoot myself on purpose!	我才不會故意射自己！
+0x00014B9B	14	UI	|/-\\No hash %s	|/-\\無雜湊 %s	保留 |/-\\ spinner 與 %s
+0x00014BAA	10	UI	No hash %s	無雜湊 %s
+0x00014C01	11	UI	%-19s: %-3d	%-19s: %-3d	純格式碼保留
+0x00014C37	30	UI	They aren't wearing any armor!	他們沒穿任何裝甲！
+0x00014C56	29	UI	I couldn't make it any better	我已無能為力
+0x00014C74	20	UI	Presto! Good as new!	完工！煥然一新！
+0x00014C89	37	UI	I'm a physician not a miracle worker!	我是醫生不是奇蹟製造者！
+0x00014CAF	38	UI	I don't think that would do much good.	我認為那沒什麼幫助。
+0x00014CD6	38	UI	I'm afraid I'd do more harm then good.	恐怕弊大於利。
+0x00014CFD	36	UI	The Wounds were severe but operable.	傷勢嚴重但可處置。
+0x00014D22	37	UI	I'm not a doctor, but that should do.	我不是醫生，但應該可以。
+0x00014D48	26	UI	It's A miracle your alive!	你還活著真是奇蹟！
+0x00014D63	42	UI	Recovery will require more than first aid!	要復原光靠急救不夠！
+0x00014D8E	28	UI	That should patch things up.	這應該能補好。
+0x00014DAE	5	UI	%s.ts	%s.ts	純檔名 format
+0x00014DB4	18	UI	 Error opening %s.	 開啟 %s 錯誤。
+0x00014DC7	11	UI	Shots: %d%c	彈數:%d%c
+0x00014DE3	8	UI	%s: %d%c	%s:%d%c
+0x00014DEC	16	UI	Applications: %d	使用次數: %d
+0x00014DFD	11	UI	Armor: %d%c	裝甲:%d%c
+0x00014E1C	5	UI	%8.8s	%8.8s	純 format 保留
+0x00014E25	31	UI	[Press <Y>es(LMB) or <N>o(RMB)]	[按 <Y>是(左鍵)或 <N>否(右鍵)]
+0x00014E45	29	UI	 [Press ENTER or Click Mouse]	 [按 ENTER 或點擊滑鼠]
+0x00014E63	6	UI	%s.bch	%s.bch	純檔名 format
+0x00014E6D	6	UI	%s.bch	%s.bch	純檔名 format
+0x00014E74	6	UI	%d.bch	%d.bch	純檔名 format
+0x00014FEC	17	UI	Can't load font!!	無法載入字型！！
+0x00015075	14	UI	Can't load lcp	無法載入 lcp
+0x00015084	18	UI	Can't load tileset	無法載入圖磚集
+0x00015097	18	UI	Can't load tileset	無法載入圖磚集
+0x000150AA	18	UI	Can't load tileset	無法載入圖磚集
+0x000150BD	18	UI	Can't load tileset	無法載入圖磚集
+0x000150D0	18	UI	Can't load tileset	無法載入圖磚集
+0x000150EB	5	UI	%s.%s	%s.%s	純 format
+0x000150F9	5	UI	%s.%s	%s.%s	純 format
+0x00015107	5	UI	%s.%s	%s.%s	純 format
+0x00015115	5	UI	%s.%s	%s.%s	純 format
+0x00015123	5	UI	%s.%s	%s.%s	純 format
+0x00015131	5	UI	%s.%s	%s.%s	純 format
+0x00015168	7	UI	%s Game	%s 遊戲
+0x00015186	9	UI	Saving %s	儲存 %s
+0x00015196	6	UI	%s.sav	%s.sav	純檔名 format
+0x000151A7	10	UI	Loading %s	載入 %s
+0x000151B2	6	UI	%s.sav	%s.sav	純檔名 format
+0x00015255	6	UI	%s.map	%s.map	純檔名 format
+0x0001525C	7	UI	No hash	無雜湊
+0x00015276	29	UI	Fatal Error opening work file	開啟工作檔嚴重錯誤
+0x00015294	24	UI	Error Writing work file.	寫入工作檔錯誤。
+0x000152AD	24	UI	Error Writing work file.	寫入工作檔錯誤。
+0x000152C6	24	UI	Error Writing work file.	寫入工作檔錯誤。
+0x000152F4	6	UI	%s.map	%s.map	純檔名 format
+0x000152FE	6	UI	%s.map	%s.map	純檔名 format
+0x00015308	18	UI	 Error opening %s.	 開啟 %s 錯誤。
+0x00015320	16	UI	Map loaded as %s	地圖載入為 %s
+0x000154DC	34	UI	Please insert diskette containing 	請插入含下列檔的磁片
+0x00015501	9	UI	in drive 	於磁碟機
+0x00015586	12	UI	Cannot find 	找不到
+0x000155B8	31	UI	Please enter new program spec: 	請輸入新程式路徑：
+0x00015C14	15	UI	run-time error 	執行階段錯誤
 0x00012322	7	DEBUG	objects		
 0x0001232F	7	DEBUG	objects		
 0x00012337	7	DEBUG	generic		

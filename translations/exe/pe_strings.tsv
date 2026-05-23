@@ -1,58 +1,58 @@
 file_offset	len	kind	original_en	translation_zh	notes
-0x0000A3FE	24	UI	Error loading space.exe!		
-0x0000A418	38	UI	A memory allocation error has occured!		
-0x0000A440	48	UI	The Planet's Edge configuration file is corrupt!		
-0x0000A472	44	UI	Please rerun Install to reconfigure program.		
-0x0000A5F8	6	UI	%s.vgr		
-0x0000A5FF	6	UI	%s.vgw		
-0x0000A60E	5	UI	%s.%s		
-0x0000A707	26	UI	Please wait while loading.		
-0x0000AA13	42	UI	. . . Earth Station  Cambara  calling  any		
-0x0000AA3E	42	UI	U.N.F.A.  Moonbase  personnel.   This   is		
-0x0000AA69	42	UI	Earth Station Cambara calling any U.N.F.A.		
-0x0000AA94	41	UI	Moonbase  personnel.   Instruments   show		
-0x0000AABE	41	UI	that at the exact time Earth was released		
-0x0000AAE8	43	UI	from   its  dimensional  limbo,  the   Moon		
-0x0000AB14	43	UI	slipped   through  a  rift  in  the   time-		
-0x0000AB40	43	UI	dimensional   barrier.   Please file   your		
-0x0000AB6C	41	UI	report  with  U.N.F.A.  Headquarters  c/o		
-0x0000AB9D	19	UI	New World Computing		
-0x0000ABB8	15	UI	P.O. Box 4302, 		
-0x0000ABC8	34	UI	      Hollywood, California  90078		
-0x0000ABF2	21	UI	You will be contacted		
-0x0000AC30	15	UI	William R. Dean		
-0x0000AC40	18	UI	Osai L. Tsakafuchi		
-0x0000AC53	19	UI	Nelson T. Ngatadatu		
-0x0000AC67	17	UI	Katya A. Mershova		
-0x0000AC79	13	UI	Eric B. Hyman		
-0x0000AC87	19	UI	Kenneth L. Mayfield		
-0x0000AC9B	13	UI	Neal Hallford		
-0x0000ACA9	16	UI	Jonathan P. Gwyn		
-0x0000ACBA	12	UI	Todd Hendrix		
-0x0000ACC7	18	UI	Contact Specialist		
-0x0000ACDA	18	UI	Medical Specialist		
-0x0000ACED	14	UI	Chief Engineer		
-0x0000ACFC	15	UI	Ground Security		
-0x0000AD40	17	UI	Graphics Engineer		
-0x0000AD57	21	UI	U.N.F.A. Chief (2083)		
-0x0000AD6D	19	UI	Becomes World Heath		
-0x0000AD81	23	UI	Retires U.N.F.A. (2047)		
-0x0000AD99	21	UI	Killed on Duty (2081)		
-0x0000ADAF	20	UI	I'm Outa' Here! (tm)		
-0x0000ADC4	14	UI	I'll play your		
-0x0000ADD3	22	UI	Soon to be universally		
-0x0000ADEA	12	UI	Is this game		
-0x0000ADF8	16	UI	Marries Katya M.		
-0x0000AE09	20	UI	Administrator (2055)		
-0x0000AE21	11	UI	silly game.		
-0x0000AE2D	11	UI	    famous!		
-0x0000AE39	13	UI	finished yet?		
-0x0000AE47	17	UI	Lick the chalice!		
-0x0000B175	34	UI	Please insert diskette containing 		
-0x0000B19A	9	UI	in drive 		
-0x0000B21F	12	UI	Cannot find 		
-0x0000B251	31	UI	Please enter new program spec: 		
-0x0000B5C9	15	UI	run-time error 		
+0x0000A3FE	24	UI	Error loading space.exe!	載入 space.exe 失敗！
+0x0000A418	38	UI	A memory allocation error has occured!	記憶體配置發生錯誤！
+0x0000A440	48	UI	The Planet's Edge configuration file is corrupt!	天際寒星設定檔已損毀！
+0x0000A472	44	UI	Please rerun Install to reconfigure program.	請重新執行 Install 程式設定。
+0x0000A5F8	6	UI	%s.vgr	%s.vgr	檔名 format 保留
+0x0000A5FF	6	UI	%s.vgw	%s.vgw	檔名 format 保留
+0x0000A60E	5	UI	%s.%s	%s.%s	檔名 format 保留
+0x0000A707	26	UI	Please wait while loading.	載入中請稍候。
+0x0000AA13	42	UI	. . . Earth Station  Cambara  calling  any	。。。地球甘巴拉基地呼叫所有	開場字幕第 1 行
+0x0000AA3E	42	UI	U.N.F.A.  Moonbase  personnel.   This   is	U.N.F.A. 月球基地人員。這是	開場字幕第 2 行
+0x0000AA69	42	UI	Earth Station Cambara calling any U.N.F.A.	地球甘巴拉基地呼叫所有 U.N.F.A.
+0x0000AA94	41	UI	Moonbase  personnel.   Instruments   show	月球基地人員。儀器顯示
+0x0000AABE	41	UI	that at the exact time Earth was released	就在地球脫離次元監牢的同時
+0x0000AAE8	43	UI	from   its  dimensional  limbo,  the   Moon	月球滑入了時間次元
+0x0000AB14	43	UI	slipped   through  a  rift  in  the   time-	屏障的裂縫之中。
+0x0000AB40	43	UI	dimensional   barrier.   Please file   your	請將您的報告
+0x0000AB6C	41	UI	report  with  U.N.F.A.  Headquarters  c/o	提交至 U.N.F.A. 總部
+0x0000AB9D	19	UI	New World Computing	新世界電腦公司	開發商名稱
+0x0000ABB8	15	UI	P.O. Box 4302, 	郵政信箱 4302，
+0x0000ABC8	34	UI	      Hollywood, California  90078	      加州好萊塢 90078
+0x0000ABF2	21	UI	You will be contacted	將會與您聯絡
+0x0000AC30	15	UI	William R. Dean	William R. Dean	開發者署名保留原文
+0x0000AC40	18	UI	Osai L. Tsakafuchi	Osai L. Tsakafuchi	開發者署名
+0x0000AC53	19	UI	Nelson T. Ngatadatu	Nelson T. Ngatadatu	開發者署名
+0x0000AC67	17	UI	Katya A. Mershova	Katya A. Mershova	開發者署名
+0x0000AC79	13	UI	Eric B. Hyman	Eric B. Hyman	開發者署名
+0x0000AC87	19	UI	Kenneth L. Mayfield	Kenneth L. Mayfield	開發者署名
+0x0000AC9B	13	UI	Neal Hallford	Neal Hallford	開發者署名
+0x0000ACA9	16	UI	Jonathan P. Gwyn	Jonathan P. Gwyn	開發者署名
+0x0000ACBA	12	UI	Todd Hendrix	Todd Hendrix	開發者署名
+0x0000ACC7	18	UI	Contact Specialist	接觸專家	8 字 OK
+0x0000ACDA	18	UI	Medical Specialist	醫療專家	8 字 OK
+0x0000ACED	14	UI	Chief Engineer	總工程師
+0x0000ACFC	15	UI	Ground Security	地面安全官
+0x0000AD40	17	UI	Graphics Engineer	繪圖工程師
+0x0000AD57	21	UI	U.N.F.A. Chief (2083)	U.N.F.A. 長官(2083)
+0x0000AD6D	19	UI	Becomes World Heath	成為世界衛生官員
+0x0000AD81	23	UI	Retires U.N.F.A. (2047)	自 U.N.F.A. 退役(2047)
+0x0000AD99	21	UI	Killed on Duty (2081)	殉職(2081)
+0x0000ADAF	20	UI	I'm Outa' Here! (tm)	我要走人啦！(tm)
+0x0000ADC4	14	UI	I'll play your	我會玩你的	credit 玩笑段
+0x0000ADD3	22	UI	Soon to be universally	即將舉世聞名的	credit 玩笑段
+0x0000ADEA	12	UI	Is this game	這遊戲	credit 玩笑段
+0x0000ADF8	16	UI	Marries Katya M.	娶了 Katya M.
+0x0000AE09	20	UI	Administrator (2055)	管理員(2055)
+0x0000AE21	11	UI	silly game.	蠢遊戲。
+0x0000AE2D	11	UI	    famous!	    出名！
+0x0000AE39	13	UI	finished yet?	完成了沒？
+0x0000AE47	17	UI	Lick the chalice!	舔聖杯！
+0x0000B175	34	UI	Please insert diskette containing 	請插入含下列檔的磁片
+0x0000B19A	9	UI	in drive 	於磁碟機
+0x0000B21F	12	UI	Cannot find 	找不到
+0x0000B251	31	UI	Please enter new program spec: 	請輸入新程式路徑：
+0x0000B5C9	15	UI	run-time error 	執行階段錯誤
 0x0000A39A	7	DEBUG	sfx.vga		
 0x0000A3A2	9	DEBUG	sword.vgr		
 0x0000A3AC	8	DEBUG	moon.vga		
