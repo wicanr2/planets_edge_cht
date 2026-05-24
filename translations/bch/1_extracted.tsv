@@ -1,34 +1,34 @@
 idx	offset	len	original_en	translation_zh	notes
-0	0x0200	13	First Contact		
-1	0x020F	80	Glistening like a washroom\rfloor, the walls of the\rstation are blindingly clean.		
-2	0x0261	69	Painted with a dull\rbattleship grey color, the\rdoor is firmly closed.		
-3	0x02A8	62	A holographic display crystal\rglistens on the glass-top\rtable.		
-4	0x02E8	83	A series of geometric shapes\rhave been worked into the\rfloor's elaborate tile work.		
-5	0x033D	41	The floor receptacle appears\rto be empty.		
-6	0x0368	92	Blackened by an intense burst\rof heat, this section of\rfloor is in desperate need of\rrepair.		
-7	0x03C6	84	A number of wiring junctions\rare visible through a viewing\rplate set into the floor.		
-8	0x041C	72	A small handful of rocks have\rbeen scattered on the floor\rof the atrium.		
-9	0x0466	110	Doubtlessly created\rartificially by the station's\rdecorator, this meteorite\rcrater is only a scant meter\rdeep.		
-10	0x04D6	71	A simple checkerboard pattern\radorns this area of the\rstation flooring.		
-11	0x051F	48	The monitor appears to be\rdisplaying a newscast.		
-12	0x0551	62	Glowing an angry red, the\rmonitor flickers rapidly on\rand off.		
-13	0x0591	144	After looking at a complex\rseries of patterns on the\rmonitor's screens, %\rrealizes that the diagram is\ran alien analogue of a\rstation directory.		
-14	0x0623	62	Its function uncertain, the\rdevice appears to be out of\rorder.		
-15	0x0663	65	Quivering bursts of red pulse\rfrom the tele- trans homing\rbeacon.		
-16	0x06A6	99	Overstuffed and smelling of\rfresh vinyl, the viewing\rchair appears to have been\rrecently installed.		
-17	0x070B	78	A tactical display of the\rorbital traffic over the\rplanet glows on this panel.		
-18	0x075B	73	Formed into the wall itself,\rthe niche appears to have a\rspecial purpose.		
-19	0x07A6	29	It is a severed android head.		
-20	0x07C5	83	Various technical readouts\rswirl around a computer-drawn\rimage of a planetary core.		
-21	0x081A	13	It's a table.		
-22	0x0829	102	Cycling madly through the\rspectrum of colors, the\rstation alert beacon appears\rto have been activated.		
-23	0x0891	46	The station alert beacon has\rbeen deactivated.		
-24	0x08C1	83	Although it looks repairable,\rthe station generator has\rbeen very severely damaged.		
-25	0x0916	59	The control panel looks as if\rit was very hastily shut off.		
-26	0x0953	138	Aligned in massive banks, the\rdisplays on this panel appear\rto be monitoring the status\rof several of the station's\rlife support features.		
-27	0x09DF	43	A deep hole has been blasted\rin this panel.		
-28	0x0A0C	65	Fused into a lump of slag,\rthis panel would appear to be\ruseless.		
-29	0x0A4F	98	Displayed in vivid colors,\rthe map would appear to be a\rtactical view of the Centauri\rStar System.		
-30	0x0AB3	15	It's the floor.		
-31	0x0AC4	91	Hastily tossed to one side,\rthis piece of laboratory\requipment appears to have\rbeen ruined.		
-255	0x0200	13	First Contact		
+0	0x0200	13	First Contact	第一次接觸
+1	0x020F	80	Glistening like a washroom\rfloor, the walls of the\rstation are blindingly clean.	如盥洗室地板般光亮，\r站內牆面潔淨刺目。
+2	0x0261	69	Painted with a dull\rbattleship grey color, the\rdoor is firmly closed.	漆著暗沉戰艦灰，\r門緊閉不開。
+3	0x02A8	62	A holographic display crystal\rglistens on the glass-top\rtable.	全像顯示水晶在\r玻璃面桌上熠熠生輝。
+4	0x02E8	83	A series of geometric shapes\rhave been worked into the\rfloor's elaborate tile work.	地板精緻磁磚拼工中\r嵌入一系列幾何圖形。
+5	0x033D	41	The floor receptacle appears\rto be empty.	地面凹槽似乎是空的。
+6	0x0368	92	Blackened by an intense burst\rof heat, this section of\rfloor is in desperate need of\rrepair.	遭高溫劇烈灼黑，\r此處地板亟需修繕。
+7	0x03C6	84	A number of wiring junctions\rare visible through a viewing\rplate set into the floor.	透過地面觀察板可見\r數處電線接點。
+8	0x041C	72	A small handful of rocks have\rbeen scattered on the floor\rof the atrium.	中庭地面散落\r著一小撮石塊。
+9	0x0466	110	Doubtlessly created\rartificially by the station's\rdecorator, this meteorite\rcrater is only a scant meter\rdeep.	無疑是站內裝潢師\r人為造景，這隕石坑\r深僅一公尺出頭。
+10	0x04D6	71	A simple checkerboard pattern\radorns this area of the\rstation flooring.	簡單棋盤格紋\r裝飾此區地板。
+11	0x051F	48	The monitor appears to be\rdisplaying a newscast.	螢幕似乎正在\r播放新聞。
+12	0x0551	62	Glowing an angry red, the\rmonitor flickers rapidly on\rand off.	螢幕暴怒紅光\r急促閃爍。
+13	0x0591	144	After looking at a complex\rseries of patterns on the\rmonitor's screens, %\rrealizes that the diagram is\ran alien analogue of a\rstation directory.	細看螢幕上一連串複\r雜圖樣後，% 領\r悟此圖即為站內導覽\r的外星對應版。
+14	0x0623	62	Its function uncertain, the\rdevice appears to be out of\rorder.	功能不明，此裝置\r似乎故障了。
+15	0x0663	65	Quivering bursts of red pulse\rfrom the tele- trans homing\rbeacon.	跳躍傳送歸航信標\r顫動著噴出紅光。
+16	0x06A6	99	Overstuffed and smelling of\rfresh vinyl, the viewing\rchair appears to have been\rrecently installed.	填料飽滿、散發新乙\r烯味，觀景椅似乎\r剛安裝不久。
+17	0x070B	78	A tactical display of the\rorbital traffic over the\rplanet glows on this panel.	面板上閃耀著\r行星上空軌道流量\r的戰術顯示。
+18	0x075B	73	Formed into the wall itself,\rthe niche appears to have a\rspecial purpose.	嵌入牆內的壁龕\r似乎別有用途。
+19	0x07A6	29	It is a severed android head.	是顆斷裂的機器人頭。
+20	0x07C5	83	Various technical readouts\rswirl around a computer-drawn\rimage of a planetary core.	各式技術讀數圍繞著\r電腦繪製的行星核心圖。
+21	0x081A	13	It's a table.	是張桌子。
+22	0x0829	102	Cycling madly through the\rspectrum of colors, the\rstation alert beacon appears\rto have been activated.	狂亂掃過色譜的站內\r警示燈號，似乎已\r被啟動。
+23	0x0891	46	The station alert beacon has\rbeen deactivated.	站內警示燈號已\r解除。
+24	0x08C1	83	Although it looks repairable,\rthe station generator has\rbeen very severely damaged.	雖看似可修復，\r站內發電機已嚴重\r受損。
+25	0x0916	59	The control panel looks as if\rit was very hastily shut off.	控制面板看似\r倉促關閉。
+26	0x0953	138	Aligned in massive banks, the\rdisplays on this panel appear\rto be monitoring the status\rof several of the station's\rlife support features.	龐大陣列排列著，\r此面板顯示似在監\r控站內多項維生系\r統的狀態。
+27	0x09DF	43	A deep hole has been blasted\rin this panel.	此面板被炸出\r一個深洞。
+28	0x0A0C	65	Fused into a lump of slag,\rthis panel would appear to be\ruseless.	熔成一團熔渣，\r此面板似乎無用。
+29	0x0A4F	98	Displayed in vivid colors,\rthe map would appear to be a\rtactical view of the Centauri\rStar System.	以鮮明色彩呈現，\r此圖似為半人馬星\r系的戰術視圖。
+30	0x0AB3	15	It's the floor.	是地板。
+31	0x0AC4	91	Hastily tossed to one side,\rthis piece of laboratory\requipment appears to have\rbeen ruined.	倉促拋向一旁，\r這件實驗器材似已\r毀損。
+255	0x0200	13	First Contact	第一次接觸
